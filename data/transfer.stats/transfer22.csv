@@ -1,0 +1,890 @@
+"","player_name","team","conf","Min_per","ORtg","usg","eFG","ORB_per","DRB_per","AST_per","TO_per","blk_per","stl_per","ftr","yr","ht","new.school","dbpm"
+"1","Michael Baer","Iowa","B10",0.9,200,3,100,0,18.2,0,0,9.3,5.1,0,"Jr","7-Jun","Siena",7.45472
+"2","Tyrell Jones","Auburn","SEC",7.2,65.2,25.8,31.3,0,11.9,17.6,37.3,1.3,2.8,50,"So","1-Jun","South Alabama",-0.875867
+"3","Qwanzi Samuels","Florida Gulf Coast","ASun",0.8,50.7,35.7,33.3,0,42.5,0,31.3,0,11.2,0,"So","8-Jun","George Washington",4.02414
+"4","Jaylon Hall","Wright St.","Horz",59.1,102,18.8,57.6,1,8.7,14.9,27.3,0.2,1.8,31.1,"Jr","5-Jun","Morehead St.",0.396532
+"5","Bitumba Baruti","East Carolina","Amer",54.9,98.6,14.9,46,5.5,13.4,8.5,9.8,3.6,2.5,20.8,"Sr","7-Jun","Florida Atlantic",1.88778
+"6","Onyi Eyisi","Fordham","A10",37.5,85.8,14,48.6,4.3,13.9,0,19,3.4,1.2,57.1,"Jr","9-Jun","Cal St. Northridge",0.582807
+"7","Ahmad Rand","Memphis","Amer",1.6,37.3,12.2,0,18.4,30.4,0,50.2,6.6,3.1,0,"Jr","8-Jun","Oregon St.",0.805975
+"8","Ibrahim Famouke Doumbia","UCF","Amer",3.5,52.5,12,12.5,7.6,25.3,5.6,0,3.6,0,0,"Jr","7-Jun","Cal St. Fullerton",-0.100965
+"9","Kris Monroe","Providence","BE",7.8,79.3,16,30,6.8,6.9,6.6,4.4,3.8,0.7,12,"Jr","8-Jun","North Carolina Central",-0.970933
+"10","Tekorian Smith","Kent St.","MAC",0.6,0,7.2,0,0,0,0,0,0,0,0,"Jr","4-Jun","Troy",-4.69279
+"11","Michael Flowers","South Alabama","SB",93.2,107.9,29.1,52,1.1,12.5,22.1,16.8,0.4,2.3,32.9,"Sr","1-Jun","Washington St.",-1.57088
+"12","DeVante' Jones","Coastal Carolina","SB",84.3,116.5,24.7,52.7,5.1,17.4,16.8,16.2,0.7,4.2,43.3,"Jr","1-Jun","Michigan",2.81843
+"13","Alex Merkviladze","Cal St. Northridge","BW",70.4,97,18.3,50.3,4,24.5,7.5,15.6,1,0.8,23,"Fr","9-Jun","Loyola Marymount",-2.45001
+"14","PJ Henry","Hartford","AE",43.6,99.7,15.6,47.4,1.7,9.4,16.8,22.9,0,2.3,39.7,"So","10-May","Texas Southern",0.814415
+"15","Keaston Willis","Incarnate Word","Slnd",74.8,95.9,30.2,48.8,1.9,13.2,13.4,15.5,0.2,1.7,34.4,"So","3-Jun","Louisiana Tech",-2.96756
+"16","Konstantin Dotsenko","Tarleton St.","WAC",52,98.8,21.4,51.4,0.4,11.3,13.3,13.6,1,1.4,16.2,"So","7-Jun","Samford",-1.81329
+"17","Justin Brown","South Florida","Amer",69,106.7,14.3,48.6,4.9,8.6,5.4,14.8,0.4,1,17.1,"Sr","6-Jun","UAB",-0.405207
+"18","Demetric Horton","Fort Wayne","Horz",52.9,99.4,22.8,55.4,2,14.4,15.3,22.5,1.5,3.3,10.7,"Jr","5-Jun","North Carolina A&T",-0.815058
+"19","Jack Hoiberg","Michigan St.","B10",3.9,59.4,20.7,15.4,2.6,5.1,19.8,12.8,0,0,53.8,"Jr","11-May","UT Arlington",-3.45305
+"20","Aidan Igiehon","Louisville","ACC",5.1,115,15.7,71.4,11.2,10.8,0,9.4,2.9,1.5,114.3,"So","10-Jun","Grand Canyon",1.57154
+"21","James Scott","Portland St.","BSky",75.9,92.7,30.3,45.1,5.2,14.6,23,19.2,0.2,3,36.9,"Sr","5-Jun","Eastern Michigan",0.309963
+"22","Bryce Thompson","Kansas","B12",27.4,81.4,17.9,37.8,1.7,8.9,12,19.2,1,0.9,13.8,"Fr","5-Jun","Oklahoma St.",0.0687789
+"23","Quinton Mincey","Mount St. Mary's","NEC",0.5,57.4,11.2,0,0,0,35.3,0,0,0,0,"Fr","6-Jun","UMass Lowell",-1.15363
+"24","Daniel Akin","UMBC","AE",45.1,106.7,19.4,57.9,9.8,21.8,6.3,15.7,3.9,1,96.1,"Sr","9-Jun","Cal Baptist",0.892371
+"25","Marcus Larsson","Incarnate Word","Slnd",36.1,90.1,20.2,45.5,4.4,32.7,8.3,19.3,3.1,1.5,29.9,"So","11-Jun","Illinois Chicago",-0.116001
+"26","Jahcobi Neath","Wake Forest","ACC",35,78.1,19.5,39.7,1.6,11.7,21.3,34.1,0.8,1.2,27,"So","3-Jun","Wisconsin",-1.04582
+"27","Terren Frank","TCU","B12",11.5,98,12.9,50,3,8.6,8.2,15.3,2.6,0.5,3.7,"Fr","8-Jun","Vanderbilt",-0.123131
+"28","Kylen Milton","Western Kentucky","CUSA",4.4,78.7,28.9,43.5,2.3,17.3,4.2,23.2,0,0,30.4,"Fr","4-Jun","Arkansas Pine Bluff",-5.02853
+"29","Rich Kelly","Boston College","ACC",50.4,104.7,22.4,54.5,1.1,6.8,19.5,19.1,0.3,2.1,18.8,"Sr","1-Jun","Massachusetts",-0.904649
+"30","Jared Kimbrough","La Salle","A10",41.9,108.5,16,64.6,7.7,15.6,5.6,23.2,4.2,0.7,27,"Jr","8-Jun","Hartford",-0.555427
+"31","Jamir Moultrie","North Carolina Central","MEAC",43.8,102.9,22.5,52.3,1.5,4.7,9.7,14.5,0.5,1.3,21.6,"Jr","11-May","Kennesaw St.",-3.21831
+"32","Tyler Kolek","George Mason","A10",75.5,108.2,17.5,53.1,1.1,12.7,14,16.2,0.5,2.5,17.8,"Fr","3-Jun","Marquette",1.37701
+"33","Kevin Samuel","TCU","B12",63,109.5,18.8,62.5,14.4,21.6,6.5,16.2,7,2.4,48.8,"Jr","11-Jun","Florida Gulf Coast",2.24827
+"34","Akeem Odusipe","Vanderbilt","SEC",4.7,77.5,16.8,42.9,19.4,12.8,7.8,36.3,2.4,0,28.6,"Fr","9-Jun","Kent St.",-2.61233
+"35","Ferron Flavors Jr.","Oklahoma St.","B12",22.8,93.2,14.9,41.2,1.2,6,3.8,7.9,0,0.8,7.7,"Sr","3-Jun","Robert Morris",-0.34298
+"36","J.P. Moorman II","Temple","Amer",66.9,99.1,16.4,48.6,3.9,17.4,18.4,17.5,1,1.5,17.9,"Sr","7-Jun","UC Riverside",2.16404
+"37","Abdul Ado","Mississippi St.","SEC",68.2,105.8,12.9,55.4,11.3,16.8,4.8,24.4,8.4,1.4,45.3,"Sr","11-Jun","Cincinnati",2.97583
+"38","Jake LaRavia","Indiana St.","MVC",73.2,109.1,25,50.2,9.9,16.8,18.9,17.2,3.1,3.2,52.6,"So","9-Jun","Wake Forest",2.6823
+"39","LaDamien Bradford","Texas A&M","SEC",13.8,48.9,8.9,10,2.4,10.1,9.2,27.5,1.4,3.1,50,"Fr","4-Jun","Louisiana Tech",2.20532
+"40","Samkelo Cele","Southern","SWAC",60.4,102.7,22,51.5,3.3,15.9,5.3,16.2,0.9,3.8,38.5,"Jr","5-Jun","Marist",0.545148
+"41","Jordan Sechan","Bucknell","Pat",2.5,21.4,11.9,0,0,0,12.9,0,0,4.6,0,"Sr","1-Jun","College of Charleston",-2.95834
+"42","Noah Gurley","Furman","SC",73.6,109.7,26.6,56.7,5.3,17.7,17.1,16.8,4,1.6,28.2,"Jr","8-Jun","Alabama",0.235637
+"43","William Douglas","SMU","Amer",20.3,88.5,20.3,44.6,5.1,7,19.1,30.1,0.8,4.1,16.2,"Jr","5-Jun","Prairie View A&M",1.71395
+"44","Javon Greene","George Mason","A10",69.2,99.4,21.4,51.9,1.6,19.4,14.9,23,0.2,3.9,34.3,"Sr","2-Jun","South Florida",2.845
+"45","Jaxon Knotek","North Dakota St.","Sum",18.9,95.7,21.4,48.6,3.6,16.6,4.2,16.4,1.1,1.2,15.1,"Jr","6-Jun","American",-0.776396
+"46","Symir Torrence","Marquette","BE",28.8,83.1,15.8,35.2,0.4,11.1,21.6,24.8,0.3,1.3,34.4,"So","3-Jun","Syracuse",0.542648
+"47","Jordan Lathon","UTEP","CUSA",59.7,83.1,16.6,38.4,2,18.4,23.1,24.7,1.8,2.6,26.8,"So","4-Jun","Milwaukee",2.63534
+"48","Jason Holliday","Murray St.","OVC",21.2,42.4,7.3,26.9,1.9,11.1,3.1,48.6,2.2,1.3,84.6,"Jr","4-Jun","Southern",2.08525
+"49","Dawson Garcia","Marquette","BE",74,112.1,21.4,53.2,8.8,16.3,5.7,14.6,1.7,0.5,42.1,"Fr","11-Jun","North Carolina",-0.244828
+"50","Tariq Silver","Oregon St.","P12",11.9,114.6,9.4,44.2,0.8,10.1,12.3,0,0,1.2,19.2,"Jr","5-Jun","Austin Peay",0.765434
+"51","Ayo Akinwole","Nebraska Omaha","Sum",76.9,118.2,19.4,58.9,1.7,11.6,19.8,15.5,0.1,1.6,31.1,"Sr","Jun-00","Drake",-0.550028
+"52","Pauly Paulicap","DePaul","BE",54.9,102,17.5,55.4,12.7,16.6,1,21.5,6.5,1.3,39.6,"Sr","8-Jun","West Virginia",1.54902
+"53","Trey Wade","Wichita St.","Amer",66.2,108.7,14.7,49.2,7.3,14.7,10.4,11.9,2.8,1.2,19.7,"Sr","6-Jun","Arkansas",1.39949
+"54","Rocket Watts","Michigan St.","B10",56.4,87,23.3,38.2,1.6,6.7,24.4,17.3,0,0.4,16.2,"So","2-Jun","Mississippi St.",-1.7374
+"55","Myles Baker","Central Connecticut","NEC",36.1,86.6,26.9,48.5,2.5,8.5,5.8,20.4,0.4,2,22,"So","3-Jun","Eastern Illinois",-4.14446
+"56","Daniel Ramsey","Xavier","BE",0.5,146.4,24.3,100,28.5,26.1,0,0,0,0,50,"So","9-Jun","Tennessee Tech",3.47236
+"57","Kevin Marfo","Texas A&M","SEC",29.9,97,15,46.4,12.8,23.2,4.7,28.2,4,3.1,96.4,"Sr","8-Jun","Quinnipiac",1.95567
+"58","Mike Adewunmi","SIU Edwardsville","OVC",72.2,99.6,22.8,54.7,3,21.6,8,21,1.5,1.4,40.2,"Sr","5-Jun","UT Rio Grande Valley",-1.40322
+"59","K.D. Johnson","Georgia","SEC",35.8,98.9,28.3,49.7,3.3,10.1,10.3,17.5,0.9,4.3,55.3,"Fr","1-Jun","Auburn",1.46298
+"60","Earl Timberlake","Miami FL","ACC",17.6,88.7,24.3,46.9,6.6,14.6,18.5,29.1,2.4,3.7,55.1,"Fr","6-Jun","Memphis",1.77157
+"61","Quincy Guerrier","Syracuse","ACC",81.8,114.6,20,53,9.5,18.3,5,9.5,4.1,1.4,34,"So","7-Jun","Oregon",0.0289916
+"62","San Antonio Brinson","NJIT","AE",65.2,89.6,21.6,46.2,5,13,8.6,17.9,0.4,1.6,26.8,"Sr","8-Jun","Texas A&M Corpus Chris",-2.04844
+"63","Ralph Agee","San Jose St.","MWC",63.6,94.9,22.1,57.1,5.2,14.3,5.2,22.9,1,0.8,45,"Sr","8-Jun","Rutgers",-2.52521
+"64","Jeriah Horne","Colorado","P12",61.3,116,20.8,55.2,5.8,23,7.5,13,0.3,1.5,19.6,"Sr","7-Jun","Tulsa",1.72158
+"65","Greg Calixte","George Mason","A10",17.2,77.2,17.1,60,8.6,18.3,5,36.3,2.3,0.8,52,"Sr","8-Jun","Bryant",-0.445039
+"66","Jose Perez","Marquette","BE",10.3,84,17.9,40.3,1.1,5.8,6.9,17.5,1.9,0,32.3,"Jr","5-Jun","Manhattan",-1.90411
+"67","Lado Laku","Texas A&M Corpus Chris","Slnd",7.1,133.2,14.3,69.2,5.7,5.8,0,6.6,8.7,1.9,76.9,"Fr","10-Jun","Cal St. Fullerton",1.84001
+"68","Jack Hemphill","Boston University","Pat",39.2,100,24.5,50.5,7.4,18.6,15.1,20.6,2.3,1.7,15.7,"Jr","9-Jun","St. Francis NY",-0.893866
+"69","Ian Martinez","Utah","P12",39.2,107.9,16.4,55.4,2,12.3,9.5,17.2,4.7,2.1,33.3,"Fr","3-Jun","Maryland",2.76705
+"70","Gerald Liddell","Texas","B12",7.3,74.2,15.6,50,5.8,10.6,6.6,32.3,1.3,0.7,42.9,"Jr","8-Jun","Alabama St.",0.957272
+"71","Chris Brandon","Detroit","Horz",44.2,142.2,10.5,74.5,12.1,18.8,4,11.6,2.7,2.1,47.1,"Jr","8-Jun","Northern Kentucky",-0.817753
+"72","Darius Quisenberry","Youngstown St.","Horz",46.4,95.3,25.8,42.1,1.5,9.4,16.2,19.9,0.8,3.1,44.7,"Jr","1-Jun","Fordham",-0.509464
+"73","Alfonso Plummer","Utah","P12",69.8,104.9,22.5,55.5,1.3,7.9,7.5,12.6,0.2,1.5,12.1,"Sr","1-Jun","Illinois",-0.639766
+"74","Robert Hutchens","Seattle","WAC",0.4,0,13.6,0,0,0,0,0,0,0,0,"Fr","4-Jun","Northern Arizona",-8.20724
+"75","DJ Harvey","Vanderbilt","SEC",45,95.3,17.4,49.6,3,14.7,4.9,19.8,1,1.4,13.7,"Sr","6-Jun","Detroit",-0.9426
+"76","Darius McNeill","SMU","Amer",41.9,105.4,14.7,53.3,2.9,9,7.5,16.1,0.4,1.6,12,"Jr","3-Jun","UTSA",0.406145
+"77","Calvin Wishart","Georgia Southern","SB",62.7,102.7,17.2,54.8,0.8,9.2,17.4,22,0.7,2,24.7,"So","2-Jun","UC Santa Barbara",0.714049
+"78","Christian Shumate","Tulsa","Amer",3.6,75.4,21.9,71.4,12.1,22.4,0,45.4,12.5,0,14.3,"Fr","6-Jun","McNeese St.",0.303763
+"79","Antwann Jones","Creighton","BE",26.1,99.2,21.4,44,5.4,16.9,20,18.2,2,1.2,35.2,"So","6-Jun","Louisiana Lafayette",1.15378
+"80","Malik Muhammad","Central Michigan","MAC",46.9,98,13.9,50.8,9.4,18.4,1.9,22.7,7,1,58.7,"Jr","9-Jun","Southern Utah",-0.93206
+"81","Paxson Wojcik","Loyola Chicago","MVC",5.1,118,24.5,60.9,4.6,13,15.3,12.9,0,2.1,21.7,"So","4-Jun","Brown",0.938016
+"82","Samari Curtis","Evansville","MVC",37,100.5,25.2,56.4,1.4,14.6,7.1,18.3,0.6,1.7,32,"So","4-Jun","Bowling Green",-3.11131
+"83","Tyson Jolly","SMU","Amer",28.5,95,20.3,50.9,4.2,17.2,5.7,20,2.4,0.6,43.1,"Sr","4-Jun","Iona",-0.0455424
+"84","Mervin James","North Alabama","ASun",64.3,90.3,29.2,47.4,6,23.1,7.6,21.7,1.2,1.2,23.1,"So","7-Jun","Rider",-1.47424
+"85","Jonathan Komagum","Toledo","MAC",19.2,106.6,9.1,35.3,12.5,16.6,3.8,21.6,3.7,0.5,100,"Jr","9-Jun","Sacramento St.",0.132764
+"86","Jett Roesing","Duquesne","A10",0.7,0,7.8,0,0,0,0,0,0,0,0,"Fr","4-Jun","Rider",-8.26838
+"87","Lance Thomas","Memphis","Amer",8.6,95.8,16.2,37.5,10.4,18.2,5.5,17.8,4.9,0,33.3,"Jr","9-Jun","South Alabama",0.901365
+"88","Jarrod West","Marshall","CUSA",80.9,114.6,20.1,55.7,2.1,9.1,29.1,16.7,0.1,4,18.4,"Sr","11-May","Louisville",1.48484
+"89","Khristion Courseault","Nevada","MWC",2.8,144.1,12.9,100,0,3.9,19.8,31.5,0,6.1,250,"So","2-Jun","Houston Baptist",5.96015
+"90","Nysier Brooks","Miami FL","ACC",68.1,104.5,16.1,51.7,9.9,14.3,5.7,18.2,4,1.4,53.8,"Sr","Jul-00","Mississippi",0.587945
+"91","Joe Pleasant","Abilene Christian","Slnd",60.3,99.2,22.4,47.9,10.3,15.1,9.8,15.8,1.4,1.8,32.5,"Jr","8-Jun","Wichita St.",-0.0272961
+"92","Issac McBride","Vanderbilt","SEC",26.1,106,18.7,49.4,0.4,10.1,11.5,14.1,0.9,2.2,22.9,"Fr","1-Jun","Oral Roberts",-0.189838
+"93","Damion Baugh","Memphis","Amer",45.4,89.3,12.9,44.5,2.8,11.8,16.6,30.4,1.6,2.7,26.8,"So","3-Jun","TCU",4.07697
+"94","Dedric Boyd","Illinois St.","MVC",36.6,94.1,24.1,47,1.6,6.4,7.8,11.5,0.3,1.5,18.9,"Jr","4-Jun","Tennessee St.",-2.51309
+"95","Koby McEwen","Marquette","BE",74.6,97.6,20.7,47.2,1.1,12,19.9,21.5,0.8,1.3,34.5,"Sr","4-Jun","Weber St.",0.623793
+"96","Gethro Muscadin","Kansas","B12",2.3,77.8,7.4,50,8.1,25.1,0,28.9,8.2,0,50,"Fr","10-Jun","New Mexico",1.78088
+"97","Chris Vogt","Cincinnati","Amer",48.6,93.4,16.1,56,8.6,12,11,21.7,6.1,0.6,67.9,"Sr","1-Jul","Wisconsin",1.56424
+"98","AJ Bramah","Robert Morris","Horz",51.7,104.7,30.7,50.9,9.4,26.4,11,17.2,1.4,2.4,42.2,"Sr","7-Jun","Nevada",-0.897606
+"99","Scott Spencer","La Salle","A10",38.3,93,19.4,51.3,4.4,13.1,6.4,20.9,0.3,1.6,10.3,"Sr","6-Jun","Tulane",-2.02984
+"100","CJ Fredrick","Iowa","B10",53.5,127.8,12.3,59.2,0.8,3.6,12.3,6.9,0.6,0.8,22.4,"So","3-Jun","Kentucky",0.185773
+"101","Nathaniel Stokes","Bryant","NEC",35.5,93.8,12.2,47.4,3,11.8,8,23,1.3,1.6,19,"So","8-Jun","Coppin St.",0.545138
+"102","Bates Jones","Davidson","A10",29.9,116.8,11.4,45.1,6,19.2,11.6,11,0,1.5,14.6,"Sr","8-Jun","Duke",0.871426
+"103","Liam McChesney","Utah St.","MWC",0.4,0,17.9,0,0,27.9,0,0,0,14.4,0,"Fr","10-Jun","Illinois St.",4.66443
+"104","Simeon Kirkland","UAB","CUSA",11.2,96.7,12,52.9,8.2,15.6,1.4,28.3,1,0.5,29.4,"Jr","10-Jun","New Orleans",0.00974762
+"105","Jordan Kellier","Utah","P12",3,55.5,31.5,30.8,8.6,15.9,0,24.9,3.7,0,23.1,"So","6-Jun","Siena",-4.50126
+"106","Connor Harding","BYU","WCC",49.7,106.9,14.2,49.1,2.8,10.6,11.9,17,0.8,1.4,23,"Jr","6-Jun","Utah Valley",2.21609
+"107","Cameron Copeland","College of Charleston","CAA",37.1,110.1,16.3,56.8,1.9,18.6,4.9,13.4,1,1.2,16.7,"Jr","7-Jun","Austin Peay",-1.22205
+"108","Hugo Clarkin","San Jose St.","MWC",22.8,99.7,7.8,70.6,2.9,13.9,5.9,33.1,4,1.3,5.9,"Fr","Jul-00","Sacramento St.",0.150715
+"109","Taze Moore","Cal St. Bakersfield","BW",49.8,105.7,29.8,51.8,5.4,17.5,25.8,22.8,3.4,3.7,31.2,"Sr","5-Jun","Houston",2.72705
+"110","Julien Franklin","Oregon St.","P12",8.7,74.8,11.9,33.3,3.2,10.6,11.3,31.9,0,2.2,26.7,"Fr","7-Jun","Cal Poly",0.738543
+"111","JaKobe Coles","Butler","BE",10.4,110.2,17.5,68.2,6.5,17.4,4.4,23.3,3.4,1.2,54.5,"Fr","7-Jun","TCU",1.36759
+"112","Javon Levi","UT Rio Grande Valley","WAC",70,93.2,22.6,43.1,3.2,12.5,37.6,22.1,0,4.8,47.2,"Sr","11-May","UT Arlington",2.48403
+"113","Melik Martin","Monmouth","MAAC",63.3,107.8,22.6,54.4,5.7,17.4,14.5,15.2,2.4,3,29.7,"Sr","6-Jun","Drexel",0.917184
+"114","Marcus Watson","New Mexico St.","WAC",11.5,102.3,29.7,47.4,16.4,17.5,6.4,13.2,0,1.6,17.9,"Fr","6-Jun","North Carolina A&T",-3.66345
+"115","Jalen Terry","Oregon","P12",20.8,103.8,14.8,51,1.1,11.6,15.5,20.4,1,2.5,9.6,"Fr","Jun-00","DePaul",1.55033
+"116","Dallas Walton","Colorado","P12",30.2,120,20.2,59.5,6.8,16,6.7,17.8,5,1.9,58,"Sr","Jul-00","Wake Forest",3.61889
+"117","Jermaine Harris","Rhode Island","A10",28.6,88.1,16.7,41.2,8.2,14,6.5,15.2,1.5,1,48.5,"Jr","8-Jun","New Mexico St.",-0.456983
+"118","Mikey Dixon","Grand Canyon","WAC",59,104,18.5,43,1.7,8.2,10.2,10.4,0,0.5,29.3,"Sr","2-Jun","Idaho",-0.305796
+"119","Devante Carter","Norfolk St.","MEAC",82.3,98.3,27.4,41.7,3.1,14.5,27.9,14.1,1.9,1.9,40.4,"Sr","3-Jun","Nicholls St.",-0.128499
+"120","Payton Willis","College of Charleston","CAA",85,111.5,21,55.5,1.9,10.5,19.1,14.1,1.3,1.4,15.8,"Sr","4-Jun","Minnesota",-1.71071
+"121","Chris Freeman","UT Rio Grande Valley","WAC",33.7,76.6,20.6,31.8,4.7,13,8.4,11.9,0.5,1.9,22.1,"Sr","6-Jun","Jackson St.",-2.06436
+"122","C.J. Roberts","New Mexico St.","WAC",45.1,102,21.7,48.7,2.3,12.6,9.7,13.8,0.8,1.6,18.3,"Jr","1-Jun","Lamar",-0.60137
+"123","Brenton Mills","Binghamton","AE",70.1,98.4,24.4,49,2.2,8.9,13.7,16.9,0.2,1.1,16.9,"So","3-Jun","Bowling Green",-3.39038
+"124","Elijah Wood","Nebraska","B10",2.7,25.1,22.3,11.1,0,7.6,12.6,35.2,0,7.9,0,"Fr","5-Jun","Eastern Illinois",2.89866
+"125","Trae Hannibal","South Carolina","SEC",39.5,94.5,21.9,47.8,5.9,15.9,21.7,30.6,0.3,3.2,44.9,"So","3-Jun","Murray St.",1.1719
+"126","Adonis Arms","Winthrop","BSth",40,100.6,31.8,47.9,6.3,24.4,19.4,21.2,2,2.8,43.4,"Sr","6-Jun","Texas Tech",1.47191
+"127","Noah Baumann","USC","P12",25.4,102.9,16,55.2,2.1,7,4.8,18.4,0.9,1.2,11.3,"Jr","6-Jun","Georgia",1.22119
+"128","Tareq Coburn","Hofstra","CAA",75,120.9,19.4,56.5,3.9,9.1,5.1,11.6,2.6,2.2,48.1,"Sr","5-Jun","St. John's",-0.269915
+"129","George Dixon","Eastern Illinois","OVC",38.7,83.8,18,35.5,12,15.2,8.5,16.5,2.1,4,33.6,"Sr","5-Jun","Western Illinois",0.455068
+"130","Tyreek Smith","Texas Tech","B12",21.1,130.3,13.7,64.1,9.8,24.5,3.9,8.9,10.5,0.5,60.9,"Fr","7-Jun","Oklahoma St.",3.45767
+"131","DeAndre Jones","Central Arkansas","Slnd",26.3,92.7,24.2,56.5,0.5,11.7,27.2,36.1,0.4,2.9,33.3,"Sr","11-May","Saint Louis",-1.26423
+"132","Myron Gordon","Samford","SC",35.1,107,27.7,50.9,3.4,10.9,13.9,13.4,0,1.5,42.5,"Sr","3-Jun","Bowling Green",-1.22878
+"133","Jordan Phillips","UT Arlington","SB",45.7,90.1,21.8,41.3,3.1,11.6,11.1,19.8,1.2,1.5,49.2,"Jr","7-Jun","Detroit",-2.67212
+"134","C.J. Wilbourn","Milwaukee","Horz",34.8,109.3,14.1,50.8,7,9.6,4.7,13.9,1.1,0.9,31.8,"So","7-Jun","Wright St.",-1.45721
+"135","Kam'ron Cunningham","Mississippi Valley St.","SWAC",52.1,72.5,23.9,43.6,1.2,10.2,8.6,22.8,1.1,1,15.4,"Jr","7-Jun","Fordham",-5.39392
+"136","Chris Osten","Arizona St.","P12",37.9,110.3,9.4,59.6,7.4,9.3,2.3,13.8,4.8,0.6,48.9,"Jr","9-Jun","Northern Illinois",0.651628
+"137","David Beatty","La Salle","A10",55.6,96.8,21.4,48.6,1.3,11.5,11.8,18,0.4,2,19.5,"Sr","2-Jun","North Carolina A&T",-1.50503
+"138","Jack Perry","Eastern Washington","BSky",45.4,121.4,9.4,72.2,1.2,6.4,11.5,22.8,0,1.5,20.4,"Sr","2-Jun","Portland",0.951341
+"139","Sam Iorio","South Alabama","SB",53.6,102,17.7,47.3,5.7,12.7,8.9,14.1,3.6,1.4,15.6,"Jr","7-Jun","Niagara",-1.4522
+"140","Shavar Reynolds, Jr.","Seton Hall","BE",72.1,106.1,17.3,51.6,2.7,7.8,27.2,25.4,0.1,3.6,36.3,"Sr","2-Jun","Monmouth",2.55743
+"141","Nolan Bertain","Texas A&M Corpus Chris","Slnd",69.3,113.1,13.1,57.3,1.2,7.2,6.8,13.3,0.9,1.5,25.4,"Sr","4-Jun","Idaho",-1.32754
+"142","Perry Francois","Texas A&M Corpus Chris","Slnd",44.8,100,18.9,55.4,8.2,13.6,13.3,18.1,5.6,1.4,36.6,"Sr","8-Jun","Charlotte",0.300366
+"143","Tre Mitchell","Massachusetts","A10",68.1,114,25.9,56.6,4.7,21.5,15.6,14.2,4.8,2.1,51.2,"So","9-Jun","Texas",2.48297
+"144","Antonio Daye, Jr.","FIU","CUSA",65.1,90.3,32.4,47.7,2.5,14.6,28.2,26.2,0.3,3.8,40.4,"Jr","1-Jun","Fordham",-0.817326
+"145","David Muoka","Lamar","Slnd",58.9,95.3,12.8,51.3,8,21.1,4.5,20.1,11.7,1.2,26.1,"So","10-Jun","UNLV",2.15234
+"146","Chidozie Collin Nnamene","Mount St. Mary's","NEC",0.1,40.7,20,0,118.9,0,0,80.9,0,0,0,"Jr","9-Jun","Morgan St.",-21.5997
+"147","Brendan Wenzel","Utah","P12",1.1,44.2,15,0,11.7,21.7,14,0,0,0,0,"Fr","7-Jun","Wyoming",-2.61738
+"148","De'Sean Allen-Eikens","North Dakota","Sum",8.6,70.2,22.9,28,3.8,9.5,8.6,25,0,0.6,52,"So","6-Jun","New Orleans",-4.93283
+"149","Wynston Tabbs","Boston College","ACC",40.4,96.1,26,51.2,1,10.7,14.1,21.1,0.3,0.9,26.2,"Jr","2-Jun","East Carolina",-2.63841
+"150","Jaxson Robinson","Texas A&M","SEC",19.2,95.4,12.7,48.4,3.5,9.9,6.1,17.3,1,1.3,3.2,"Fr","7-Jun","Arkansas",0.127603
+"151","Chanse Robinson","Buffalo","MAC",1,0,8.6,0,0,0,0,62.5,0,0,0,"Fr","1-Jun","Grambling St.",-5.0656
+"152","Patrick Emilien","Western Michigan","MAC",36.8,94.8,16.7,51.4,3.6,16.4,13.1,21.6,3.6,1.6,14.3,"Jr","6-Jun","St. Francis NY",1.14129
+"153","David Maynard","Colgate","Pat",21.2,96,15.1,47.2,3.4,11,6.6,16,0.7,2.8,13.9,"Sr","4-Jun","The Citadel",1.14297
+"154","Gabe Watson","Tulane","Amer",62.1,90.6,18.9,41.7,1,8,16.2,9.3,1.1,1,13.4,"Jr","2-Jun","Jackson St.",-0.705382
+"155","Markedric Bell","Arkansas Pine Bluff","SWAC",62.4,81.9,21.9,37.6,5.9,18.6,9.4,20.4,6.7,1.6,32.8,"Sr","8-Jun","Prairie View A&M",-1.60141
+"156","Jairus Hamilton","Maryland","B10",51,106.8,16.5,57.3,2.1,10.7,6.9,13.9,0.6,0.8,33.3,"Jr","8-Jun","Western Kentucky",0.279309
+"157","P.J. Byrd","Colorado St.","MWC",33,102.6,14.8,50.9,1.8,6.7,18.4,26.3,0.3,2.1,44.8,"Jr","1-Jun","Southern",1.49076
+"158","Nikola Djogo","Notre Dame","ACC",44.5,128.3,11.7,65.8,4,13.4,7.7,14.3,2.3,1.2,31.6,"Sr","8-Jun","Northeastern",0.788427
+"159","Jared Rodriguez","San Diego","WCC",33.6,92.3,21.8,44.3,3.9,15.5,8.7,13.3,1.1,2.3,20,"Jr","7-Jun","Idaho St.",0.101858
+"160","Javonte Brown","Connecticut","BE",0.4,202.4,17.2,100,27.6,28.8,0,0,0,0,0,"Fr","Jul-00","Texas A&M",1.20096
+"161","John Pettway","South Alabama","SB",87.6,97.6,18.4,53.7,4.8,7.8,10.5,23.3,1.4,2.2,29.4,"Sr","3-Jun","Tennessee Tech",-1.05313
+"162","Dave Kasanganay","Navy","Pat",13.1,93.6,18,45.6,2.2,14.7,10.6,18.6,0,3.8,6.7,"So","2-Jun","East Carolina",0.823758
+"163","Ryan Schwieger","Princeton","Ivy",54.2,102,24.3,53,3.3,10.4,20.7,22.6,0.5,1.6,23,"Jr","7-Jun","Loyola Chicago",-1.82557
+"164","Kevin Schutte","Hofstra","CAA",20.1,113.9,13.2,51.6,15.1,21.5,4.8,14.1,6.4,1.6,38.7,"Jr","9-Jun","Incarnate Word",0.600069
+"165","Vance Jackson Jr.","Arkansas","SEC",23.5,102,16.5,47.9,3.5,15.1,9.7,13.9,0.7,1.4,14.7,"Sr","9-Jun","East Carolina",0.961704
+"166","Virshon Cotton","LIU Brooklyn","NEC",66,85.5,19.8,42.9,0.8,13.5,19.5,25.1,0,2.4,14.7,"Jr","2-Jun","New Mexico St.",-0.806349
+"167","Alonzo Gaffney","Ohio St.","B10",9.4,79.8,17.5,58.7,5.3,18.2,3.5,35.5,4.1,0.5,34.8,"Fr","9-Jun","Arizona St.",2.28132
+"168","Chase Barrs","Western Michigan","MAC",11,85.1,8.8,42.9,5.4,8.7,8.1,22.7,2.4,1.3,85.7,"So","9-Jun","Florida A&M",0.777837
+"169","Nathanael Jack","Florida St.","ACC",14.1,108.7,21.6,56.3,4.4,6.8,6.7,16.8,0.8,1.2,14.3,"Sr","5-Jun","Cleveland St.",-1.09919
+"170","Rasheed Browne","Texas A&M Corpus Chris","Slnd",18,82.3,18,38.9,5.3,14.6,17.6,33,0.7,1.5,59.3,"Jr","2-Jun","North Texas",-2.11118
+"171","Caleb Huffman","Central Michigan","MAC",61.1,98.7,26.8,49.5,3,11.1,15.9,16.8,0.9,2,22.7,"Jr","4-Jun","Nicholls St.",-2.83911
+"172","C.J. Wilcher","Xavier","BE",17.8,101.6,17.1,51.1,5.3,6.2,5.8,15.6,0.7,1.9,8.9,"Fr","5-Jun","Nebraska",-0.763986
+"173","Trevante Anderson","San Francisco","WCC",1.6,146.8,13.8,50,0,0,21.4,0,0,0,200,"Jr","2-Jun","Idaho",-1.24029
+"174","Mileek McMillan","Valparaiso","MVC",27.8,66.9,23.1,39.7,2,13.7,5.9,25.6,2.7,0.8,10.3,"Sr","8-Jun","Western Michigan",-1.26861
+"175","Tyree Corbett","Alcorn St.","SWAC",44.9,110,20.1,50.4,11.5,21.8,1.4,10.7,1.8,2,29.6,"Jr","7-Jun","Coppin St.",-2.17017
+"176","RayJ Dennis","Boise St.","MWC",67.6,104.8,17.9,50.5,1,12,19.9,16.6,0.6,2.4,19.9,"So","2-Jun","Toledo",2.15343
+"177","Emanuel Miller","Texas A&M","SEC",73.8,114,25.9,57.1,11.7,20.6,12.2,19.8,0.5,1.6,53.1,"So","7-Jun","TCU",0.30209
+"178","Yauhen Massalski","San Diego","WCC",38.9,95.6,25,59.4,12,31,11.5,28.1,10.1,1,30.4,"Sr","10-Jun","San Francisco",2.4841
+"179","Braden Burke","Central Michigan","MAC",2.6,89.3,13.1,33.3,10.1,5.3,0,0,0,0,0,"Sr","Jul-00","Oakland",-6.75573
+"180","Cameron Shelton","Northern Arizona","BSky",88.6,97.8,34.2,45.6,3.6,19.2,30.3,16.8,0,2.5,44.3,"Jr","2-Jun","Loyola Marymount",-1.75651
+"181","Toumani Camara","Georgia","SEC",67.8,100.8,22.4,51.7,8.8,21.3,10.4,20.3,4.1,2.3,44.1,"So","8-Jun","Dayton",1.47649
+"182","Bennett Kwiecinski","Siena","MAAC",7.2,93.4,4.2,33.3,2.6,4.6,0,0,2.1,0,66.7,"Fr","8-Jun","St. Thomas",-1.34961
+"183","Kenan Blackshear","Florida Atlantic","CUSA",62.7,103.2,21.4,51.5,6.2,13.3,12,22.4,0.5,3.5,52.7,"So","6-Jun","Nevada",1.30328
+"184","Jalen Benjamin","UAB","CUSA",53.1,101.7,23.8,46.5,1,5.5,14.2,13.8,0,2.3,20.5,"So","10-May","Mount St. Mary's",-0.27479
+"185","Jamir Harris","American","Pat",92.4,111.9,26.2,60.9,1.7,7,21.6,19.3,0,1.5,29.6,"Sr","2-Jun","Seton Hall",-2.49151
+"186","Will Baker","Texas","B12",15.6,64.3,26.3,31.9,8.6,18.5,8.3,23.8,1.1,1.6,21.7,"Fr","11-Jun","Nevada",-0.482884
+"187","Jalen Gibbs","Mount St. Mary's","NEC",15.2,118.7,22.1,54.4,2.5,12.9,11.5,12.1,0,2.2,46.7,"Sr","3-Jun","Jacksonville St.",0.642841
+"188","Chris Efretuei","Louisiana Monroe","SB",42.8,91.9,16.9,55.8,8.3,14.4,6.7,25.1,8,1.9,28.4,"Sr","1-Jul","Maine",1.43906
+"189","Parker Stewart","Tennessee Martin","OVC",77.4,104,28.5,49.4,2.7,13,21.2,18.2,1.2,1.2,33.4,"So","5-Jun","Indiana",-4.80788
+"190","Timmy Allen","Utah","P12",86.9,101.5,29.1,48,4.3,17.9,23.5,17.9,0.8,2.2,43.1,"Jr","6-Jun","Texas",1.00907
+"191","Efe Odigie","UTEP","CUSA",13.7,104.6,25,57.1,6.8,20.3,4.8,14.2,2.8,1,16.3,"Jr","9-Jun","Troy",0.710721
+"192","Josh Endicott","North Florida","ASun",42.7,105.9,19.4,57.7,9.7,17.7,7.8,19.4,1,0.7,26.5,"Jr","8-Jun","Tennessee Martin",-2.8016
+"193","David Green","Hofstra","CAA",21.2,78.4,18.3,40.3,1.7,15.8,2.8,19.3,0,1.8,12.9,"Fr","7-Jun","Louisiana Tech",-1.86092
+"194","Fatts Russell","Rhode Island","A10",74.9,100.2,26.5,38,1.3,13.4,27,15.1,0.4,3.3,57,"Sr","11-May","Maryland",1.46498
+"195","Jordan Brooks","Iona","MAAC",0.6,0,0,0,0,0,0,0,0,0,0,"Fr","4-Jun","Kansas St.",-1.98992
+"196","Logan Curtis","East Carolina","Amer",11.7,82.5,15.4,40.2,3.1,7,9.4,12.7,0.8,1.9,7.3,"Fr","3-Jun","Delaware",-1.58452
+"197","Tai'Reon Joseph","Austin Peay","OVC",43.3,94.7,19,46.5,2.1,6,9.9,19.6,0,1.9,14.7,"Fr","1-Jun","Radford",-1.78649
+"198","Bayron Matos","New Mexico","MWC",41.5,93.2,17.4,51.9,10.7,12.3,2.7,16.9,2.6,0.7,54.4,"Fr","9-Jun","South Florida",-1.51804
+"199","Andre Jones","Nicholls St.","Slnd",58.7,95.7,24,48.5,2,18.3,21.9,23.3,1.5,2.1,30.5,"Sr","4-Jun","Louisiana Monroe",-0.330104
+"200","Assane Diouf","Fresno St.","MWC",1.2,0,12.9,0,0,11.4,0,42.6,0,0,0,"So","2-Jul","Austin Peay",-3.8594
+"201","Tye Fagan","Georgia","SEC",54.8,110.7,18.5,61.7,7.7,13.5,9.6,19.6,1.5,1.2,20.6,"Jr","3-Jun","Mississippi",-0.0220284
+"202","Marcellus Earlington","St. John's","BE",41.7,101.2,19.5,50.6,5.3,21.7,7.1,13.4,1.9,2,17,"Jr","6-Jun","San Diego",0.276099
+"203","Ben Coupet Jr.","Little Rock","SB",80.6,111.3,16.3,55.4,4,9.6,12.5,17.2,1,2,34.5,"Sr","7-Jun","Southern Illinois",-0.453334
+"204","Diego Willis","NJIT","AE",53.4,102.8,16.2,41,4.5,14,8.9,8.8,0,1.7,39,"Jr","4-Jun","Stephen F. Austin",-1.61134
+"205","Jamison Battle","George Washington","A10",80,104.6,22,56.1,1.3,14.4,4.3,15.8,0.8,1.4,23.7,"So","7-Jun","Minnesota",-1.88293
+"206","Damaria Franklin","Tennessee Tech","OVC",55.7,91.5,25.2,50.4,3.5,17.2,9.7,20,0.5,2.6,17.8,"Jr","4-Jun","Illinois Chicago",-1.98735
+"207","Pavel Zakharov","Gonzaga","WCC",2.2,84.7,20.1,38.9,13.9,3.9,0,19.1,0,0,22.2,"So","Jul-00","Cal Baptist",-4.1534
+"208","Trevor Anderson","Wisconsin","B10",33,123.1,11.7,63.7,2.2,9.5,16.3,16.5,0,0.9,29,"Sr","3-Jun","Valparaiso",1.40274
+"209","Tyson Jackson","Middle Tennessee","CUSA",27.4,83.2,15,59.5,3.6,16.2,4.6,35,1.8,0.7,31,"So","9-Jun","New Orleans",-0.0826429
+"210","Keith Fisher III","Illinois St.","MVC",59.3,92.3,24.8,47.6,11,18.3,7.9,20.9,1.3,1.5,37.9,"Jr","8-Jun","Pepperdine",-0.808799
+"211","Nevin Zink","USC Upstate","BSth",65.3,106.6,18.4,61.2,9.6,15.9,4.6,23.1,2.9,1.3,71.6,"Jr","9-Jun","Boston University",-1.1331
+"212","Quinten Post","Mississippi St.","SEC",20.1,91.2,20.8,47.6,10.2,16.7,8.8,25.2,6.5,1.8,17.1,"So","Jul-00","Boston College",2.34721
+"213","Alec Oglesby","Cleveland St.","Horz",39.1,109.1,13,53.2,1.4,7.7,5.9,14.8,0.3,1.4,22.3,"Fr","5-Jun","UNC Wilmington",-0.258356
+"214","Kamaka Hepa","Texas","B12",5.3,121.1,16.5,72.2,4,12.8,3.5,18,3.6,1,5.6,"Jr","9-Jun","Hawaii",0.724006
+"215","Floyd Rideau Jr.","South Carolina St.","MEAC",50.7,97.9,19.1,51.3,3.8,11.3,10.9,16.7,2.7,1.7,23.7,"Fr","5-Jun","USC Upstate",-1.75648
+"216","Joseph Lanzi","Denver","Sum",24.6,76.6,17.7,43,1.2,13.6,10.8,28.5,0,1.1,18.3,"So","5-Jun","College of Charleston",-1.60279
+"217","Mark Freeman","Tennessee St.","OVC",79.7,94.9,28.7,44.4,1.4,12.3,29,20.3,0.2,3,38.6,"So","10-May","Illinois St.",-0.56794
+"218","Chris Austin","Fordham","A10",88.2,96.8,17.7,49.6,0.7,7.1,6.3,12.8,0.9,1.4,28.2,"So","4-Jun","Portland",-0.23046
+"219","Jordan Davis","Middle Tennessee","CUSA",83.5,85.1,21.2,41.7,1.9,10.6,14.9,19.9,0.4,2.2,20.4,"Jr","3-Jun","Jacksonville",-0.783314
+"220","Leon Ayers III","Mercer","SC",59.2,105.2,25.2,57,4.5,12.6,15,19.4,1.2,2.9,25.4,"Jr","6-Jun","Duquesne",0.312247
+"221","Jabri Abdur-Rahim","Virginia","ACC",3.7,72.7,18.2,25,0,6.7,9.5,9.8,3.3,1.8,20,"Fr","7-Jun","Georgia",-0.596672
+"222","Walker Kessler","North Carolina","ACC",21.9,114.7,22.8,58.3,18.4,21,7.3,15.3,10.7,3.3,45.6,"Fr","1-Jul","Auburn",4.73336
+"223","Justus Rainwater","Florida Gulf Coast","ASun",16.6,94.8,13.9,66.7,12.7,17.1,0,30.3,7,1.6,66.7,"Sr","8-Jun","Northern Arizona",1.46531
+"224","Abdoul Karim Coulibaly","Pittsburgh","ACC",56.1,112.1,12.2,52.2,7.3,12.3,7.2,15.4,4.6,1.8,32.2,"So","8-Jun","St. Bonaventure",2.15272
+"225","Mamadou Doucoure","Rutgers","B10",5.4,118.8,11.9,50,11.1,14.6,0,0,0,2.9,33.3,"Jr","9-Jun","La Salle",1.54381
+"226","Cameron Holden","Tennessee Martin","OVC",59.5,104.7,30.8,44.2,15.6,20.9,19.3,13.7,1.6,3.7,57.1,"Jr","5-Jun","Towson",-1.44798
+"227","Dyson Koehler","Cal Poly","BW",27.6,78.1,16.9,31.4,9.3,22.1,3.4,22,0.4,0.9,47.1,"Fr","7-Jun","Weber St.",-2.4227
+"228","Jalen Johnson","Wake Forest","ACC",37.2,101.6,17.2,47.7,4.8,14.7,7.5,13.2,3.7,1.7,19.5,"Sr","6-Jun","Mercer",0.417607
+"229","Josh Roberts","St. John's","BE",24.2,136.6,10.9,64.4,12.8,14.6,5.6,11.3,7.6,1.8,20,"Jr","9-Jun","Manhattan",1.89959
+"230","Hayden Curtiss","Portland","WCC",29.5,85.6,13.6,44.3,8.5,17.8,8.6,22.7,11,2.3,34.3,"Fr","9-Jun","Portland St.",1.3456
+"231","Kameron Gibson","Western Carolina","SC",30,104.5,15.3,53.5,1.9,9.9,8,12.9,0.4,0.7,9.4,"Jr","3-Jun","Vermont",-2.10633
+"232","Josh Carlton","Connecticut","BE",23.1,99.6,20.5,48.2,15.5,21.5,6.2,22,4.2,2,39.3,"Sr","11-Jun","Houston",2.18248
+"233","Isaiah Wilkins","Wake Forest","ACC",18.5,106.1,12.2,44.6,3,16.4,16.6,12.5,0.7,4.6,21.4,"Jr","4-Jun","Longwood",4.12981
+"234","T.J. Berger","Georgetown","BE",6.6,108.7,15.4,66.7,0,10.6,19.7,26.8,1.6,2.5,20,"Fr","4-Jun","San Diego",1.82883
+"235","Terrell Brown","Pittsburgh","ACC",26.4,88.1,16.3,43.5,12.2,14.9,1.6,26.1,9.2,0.8,45.7,"Sr","10-Jun","San Diego",1.26572
+"236","Franklin Agunanne","Loyola Chicago","MVC",11.4,102.3,18.1,61.1,8.6,25.4,0,18.7,0.9,0.9,30.6,"So","9-Jun","SMU",-0.854167
+"237","Jacob Groves","Eastern Washington","BSky",54.7,111.8,19.1,59.7,5.5,15.6,8.3,16.9,0.6,1.2,24,"So","7-Jun","Oklahoma",0.299018
+"238","Demarius Jacobs","Saint Louis","A10",35,124.3,13.7,58.9,2,9.8,8,13,1.7,1.6,51.6,"Jr","2-Jun","Ball St.",1.30252
+"239","C.J. Keyser","North Carolina Central","MEAC",78.9,97.4,27,49.2,2.5,11,13.1,15.5,1.6,1.4,29.4,"Sr","3-Jun","Old Dominion",-2.52507
+"240","Dom Martinelli","Northwestern","B10",0.5,258.2,13.8,0,23.7,23.1,32.5,0,0,0,0,"Fr","4-Jun","St. Thomas",3.7534
+"241","Damien Sears","Nicholls St.","Slnd",25.5,114.2,13.6,71.8,11.5,19.6,5.4,25.7,2.1,2.4,48.7,"Sr","7-Jun","Southern",0.350376
+"242","Amari McCray","Portland St.","BSky",20.6,94.1,27.9,47.4,10.9,19.1,1.8,21.9,8,2.7,47.4,"Sr","10-Jun","Grambling St.",2.45661
+"243","Kendall Lewis","Appalachian St.","SB",12.1,73.6,30.9,36.9,5.4,12.6,10.8,29.9,1.8,2,57.1,"So","7-Jun","Illinois St.",-1.74254
+"244","Chris Knight","Dartmouth","Ivy",64.3,99.4,33.4,55.2,8.5,20.1,21.8,18.9,5.9,2,28.6,"Jr","7-Jun","Loyola Chicago",2.34268
+"245","Damiree Burns","Southern","SWAC",16,88.1,26.4,45.1,8.6,19.4,9.7,22,2.5,1.3,25.5,"So","7-Jun","Murray St.",-0.697294
+"246","Jalen Cone","Virginia Tech","ACC",33.4,103.5,22.8,50.4,0.8,5.7,9.9,10.6,0.4,1.2,10.3,"So","10-May","Northern Arizona",-0.828654
+"247","Zach Nutall","Sam Houston St.","Slnd",76.9,96.5,30.8,51,3.5,17,10.9,19.3,1.2,1.7,23.9,"Jr","3-Jun","SMU",-1.48464
+"248","Anthony Roberts","St. Bonaventure","A10",7.6,76.6,25.8,28.3,9.1,5.3,22.7,22.2,2,1.9,17.4,"Jr","4-Jun","Stony Brook",-0.671794
+"249","Kristian Sjolund","UTEP","CUSA",34.2,139.1,11.8,72.7,2.3,16.3,5,8.6,2.6,0.2,7.8,"So","8-Jun","Portland",0.805213
+"250","Miroslav Stafl","Hartford","AE",52.5,97.8,23.4,56.1,8.9,15,10.6,22.8,3.3,1.1,35.1,"So","10-Jun","Central Michigan",-0.0626052
+"251","Parker Braun","Missouri","SEC",17.6,130.4,12.4,66.7,6.3,12,7.2,9.9,7.8,0.3,54.5,"So","8-Jun","Santa Clara",2.54651
+"252","Naz Bohannon","Youngstown St.","Horz",82.1,108.2,27.4,52.6,9.3,19.2,22.8,16.7,0.1,1.2,34,"Sr","6-Jun","Clemson",-1.31881
+"253","Juan Munoz","Longwood","BSth",81.7,100.7,23.1,49.5,0.6,11.4,18.7,19.6,0,2.2,27.5,"Jr","Jun-00","Hawaii",-0.808628
+"254","Mikal Starks","Georgia","SEC",8.6,74.3,7.1,12.5,3.8,10.3,16.9,26,0,3.1,0,"Jr","Jun-00","Portland St.",2.79158
+"255","Jordan Shepherd","Charlotte","CUSA",83.2,95.8,22.2,48.3,0.8,12.1,19.7,20.6,1.3,2.2,49.5,"Sr","4-Jun","California",0.24004
+"256","Ben Callahan-Gold","Tulane","Amer",0.5,47.4,20,0,0,0,0,0,0,0,50,"Fr","7-Jun","Bryant",-14.8226
+"257","Terence Lewis II","North Texas","CUSA",18.5,118.6,20.7,60.6,9.9,21.2,10.5,17.9,1.2,4,44.2,"Jr","7-Jun","Jackson St.",3.28977
+"258","Tyreek Scott-Grayson","UAB","CUSA",64.4,108.3,19.1,50,2.2,10.8,12.9,15,2,2.8,29.1,"Sr","5-Jun","Northeastern",2.43279
+"259","Trey Anderson","South Carolina","SEC",11.2,136.9,12.9,65.2,9.5,7.7,8.1,4.4,0,1.1,26.1,"So","6-Jun","San Jose St.",0.124993
+"260","Donovan Williams","Texas","B12",14.2,77.1,23.3,33.9,6,6.2,4.9,22.3,2,1.9,23.2,"So","6-Jun","UNLV",-0.522966
+"261","Brandon Horvath","UMBC","AE",80.8,105.3,21.8,52,8.6,20.1,12.5,17.3,1.3,1.1,30.3,"Sr","10-Jun","Utah St.",0.376646
+"262","Tyler Robertson","Eastern Washington","BSky",61,118.2,21.2,56.4,3.6,11.7,21.1,15.1,0,1.4,35.1,"So","6-Jun","Portland",0.182528
+"263","Dontrell McQuarter","Rider","MAAC",58.3,84.8,21.7,38.1,6.5,14.2,10.2,17.5,1.3,1.6,25,"Jr","7-Jun","Alcorn St.",-2.5874
+"264","Daniel Lobach","Rutgers","B10",0.1,0,0,0,0,0,0,0,0,0,0,"Fr","7-Jun","Samford",-2.34162
+"265","Davion Warren","Hampton","BSth",87.3,100.5,33.1,51.3,4.1,15.1,21.2,18.1,2,3.4,34.8,"Sr","6-Jun","Texas Tech",-0.695637
+"266","Desi Sills","Arkansas","SEC",51.5,106.5,17.7,50,3.1,10.9,12.8,15.4,1,2.7,35.2,"Jr","1-Jun","Arkansas St.",2.46743
+"267","Abayomi Iyiola","Arkansas","SEC",0.1,0,0,0,0,106.3,0,0,0,0,0,"Jr","9-Jun","Hofstra",5.40128
+"268","Vladislav Goldin","Texas Tech","B12",4,107.9,21.7,35.3,4.9,20.6,8.5,5.9,2.6,2.5,41.2,"Fr","1-Jul","Florida Atlantic",2.45566
+"269","Shahada Wells","UT Arlington","SB",78.2,102.6,29.6,47.7,2.8,9.6,31.1,14.1,0.8,4.1,20.2,"Jr","Jun-00","TCU",0.507061
+"270","Markeese Hastings","Butler","BE",7.4,55.3,11.9,7.7,9.2,17.6,4.8,13.9,1.6,1.6,15.4,"So","7-Jun","Western Michigan",-0.0060384
+"271","Phlandrous Fleming Jr.","Charleston Southern","BSth",74.8,100.2,30.5,46.6,2.9,20.2,17.7,15.2,3,2.9,33.1,"Sr","4-Jun","Florida",0.344756
+"272","Jarrett Hensley","UNC Greensboro","SC",16.3,92.2,15.4,39.8,2.5,12.7,4.3,15.1,4.4,1.4,36.7,"Fr","8-Jun","Cincinnati",1.04078
+"273","Tristan Enaruna","Kansas","B12",18.9,89.2,19.9,47.6,8,10.8,6.9,25,2,2.1,22.6,"So","8-Jun","Iowa St.",1.06721
+"274","Jason Carter","Xavier","BE",65.8,98.2,14.6,41.2,8.4,15.7,9.3,13.4,2.8,1.4,35.1,"Sr","8-Jun","Ohio",1.07896
+"275","Greg Outlaw","Central Connecticut","NEC",47.4,93.3,24,47.4,7.4,14.4,7.8,17.4,1.1,2.7,20.9,"So","4-Jun","Pacific",-1.61409
+"276","Chico Carter Jr.","Murray St.","OVC",61.9,107.1,24.2,58.5,0.6,6.9,14.9,19.7,0.4,2.8,20.5,"So","2-Jun","South Carolina",-0.0648306
+"277","James Baker, Jr.","Morehead St.","OVC",68.5,97.2,17.4,50.8,7.8,11,6.2,22.6,3.6,0.4,41.9,"Sr","6-Jun","UNC Wilmington",0.507626
+"278","KJ Hunt, Jr.","Morehead St.","OVC",59.7,92.9,20,46.7,0.7,9.6,24.4,29.9,1.8,1.5,46.1,"Jr","3-Jun","Denver",0.578638
+"279","Zane Meeks","Nevada","MWC",38.3,104.5,21.2,54.5,9.6,20.2,7.1,20.3,1,0.9,39.1,"So","9-Jun","San Francisco",-0.594703
+"280","Oscar Tshiebwe","West Virginia","B12",16.9,112.9,22.9,52.3,20.4,23.2,7.3,15,2.2,1.1,43.1,"So","9-Jun","Kentucky",-0.115178
+"281","Bernie Andre","FIU","CUSA",8,85.1,18.6,45.7,3.1,10.3,2.7,21,2.8,0.8,8.7,"Sr","6-Jun","Tennessee Martin",-3.1344
+"282","Jalanni White","Canisius","MAAC",30.2,81.2,20.2,42,4.8,12.9,18.8,23,4.5,1.1,25,"Sr","8-Jun","Penn St.",-0.072558
+"283","Brendan Medley-Bacon","VCU","A10",5.1,52.7,16.2,22.2,4.6,14.6,3.2,33.2,4.2,0,66.7,"Jr","1-Jul","McNeese St.",-0.145511
+"284","D.J. Johnson","Rhode Island","A10",36.7,113,13,58.4,4.3,16.1,4.1,15.1,3.5,1.1,20.5,"Jr","7-Jun","Kent St.",1.03222
+"285","John Newman III","Clemson","ACC",35.4,82.9,19.4,38.5,4,12.2,14.3,22.5,1.1,2.2,14.3,"Jr","5-Jun","Cincinnati",2.06659
+"286","Aaron Wheeler","Purdue","B10",45.3,97,14.1,47.5,5.8,22.4,10.2,21.7,3.3,2,23,"Jr","9-Jun","St. John's",3.47148
+"287","Joe Hedstrom","Wisconsin","B10",1.2,103.3,18.5,37.5,15.5,7.9,0,0,0,0,50,"So","Jul-00","Valparaiso",-3.96842
+"288","Dusan Mahorcic","Illinois St.","MVC",55,102.9,23.5,59.4,12.7,21.3,9.3,20.8,1.5,2,53.7,"Jr","10-Jun","Utah",-0.595006
+"289","Prosper Obidiebube","Chattanooga","SC",0.2,36.6,20,0,58,0,0,0,0,0,0,"So","8-Jun","Longwood",-25.1634
+"290","Jordan King","Siena","MAAC",84.6,103.9,19.2,51.3,0.2,5.3,11.6,18.6,0.2,1.5,37.4,"So","Jun-00","East Tennessee St.",-1.28848
+"291","Patrick Harding","Bryant","NEC",47.1,110.8,15.2,61.4,15.6,31,15.3,24,1.6,1.2,36.6,"So","9-Jun","Columbia",0.338279
+"292","Tre Williams","Indiana St.","MVC",76.8,95.3,18.4,53.1,7.8,16.5,6.2,21.5,5.5,1.6,46.6,"So","7-Jun","Duquesne",1.643
+"293","Maxwell Evans","Vanderbilt","SEC",64.6,107.4,16.9,55,2.8,12.1,13.5,15.3,0.5,2.1,29,"Sr","2-Jun","TCU",0.656946
+"294","Darious Hall","DePaul","BE",46.8,84.3,17.6,38.9,6.2,18.6,9.5,19.8,0.6,2.2,28.4,"Jr","7-Jun","Central Arkansas",2.05288
+"295","Dearon Tucker","Oregon St.","P12",20.9,108.2,14.7,58.1,5.8,15,4.5,24.6,5.8,1.1,72.1,"So","10-Jun","Indiana St.",2.20115
+"296","Jason Whitens","Western Michigan","MAC",55.4,99.1,14.7,48.3,5.3,11.6,10.9,20,0.5,0.9,20.2,"Jr","4-Jun","Michigan St.",-0.632278
+"297","Darius Beane","Northern Illinois","MAC",66.1,86.7,23,36.7,5.5,11.5,15.9,16.2,1.6,2.6,27.1,"Jr","3-Jun","Cal St. Northridge",-1.31877
+"298","Colin Golson, Jr.","Siena","MAAC",36.5,96.8,14.4,58.3,3.5,14.9,2.4,22,0,1.7,16.7,"Fr","7-Jun","Eastern Michigan",-0.2615
+"299","Donovan Clay","Valparaiso","MVC",83,87.6,21.7,42.6,4.4,14.8,14.6,18.3,3.6,1.1,27.5,"So","7-Jun","Missouri St.",0.291542
+"300","Cedric Russell","Louisiana Lafayette","SB",83.3,104.4,24,53.5,1.3,8.6,6.9,18,0,1,25.3,"Sr","2-Jun","Ohio St.",-2.41815
+"301","Chol Marial","Maryland","B10",8.3,82.1,20.1,39.6,9.1,11.5,2,18.4,11,0.6,45.8,"So","2-Jul","Oregon St.",0.70374
+"302","Kadary Richmond","Syracuse","ACC",52.4,103.6,19.7,47.8,3.5,10,26,22.1,2.8,4.5,43.9,"Fr","5-Jun","Seton Hall",3.93449
+"303","Jemarl Baker Jr.","Arizona","P12",33.5,110.5,18.7,50,0.7,10.5,12.1,10.6,1.3,1.2,19.4,"Jr","5-Jun","Fresno St.",0.437832
+"304","Austin Richie","Tulsa","Amer",44.3,105.5,16.2,51.3,1,10.5,4.1,6,0.7,0.5,9.2,"Jr","6-Jun","Florida Gulf Coast",-0.796747
+"305","Devin Askew","Kentucky","SEC",72.3,91.8,15.4,39.8,1.4,8.1,18.2,25.4,1,1.8,43.7,"Fr","3-Jun","Texas",1.33619
+"306","Jalen White","Ohio","MAC",6.4,116.1,21.3,56,7.7,13.2,9.1,8.6,1.9,0.9,12,"Fr","5-Jun","Nicholls St.",-0.886126
+"307","Jonathan Aku","Texas A&M","SEC",36.8,78.1,11.6,36,8.5,17.9,4.3,31.4,3.8,0.7,104,"So","10-Jun","Stephen F. Austin",0.855219
+"308","John Meeks","Bucknell","Pat",39,113.6,37,54.4,7.8,16.5,20,12.7,0,1.8,45.6,"Sr","6-Jun","College of Charleston",-2.33197
+"309","Jamari Wheeler","Penn St.","B10",77.3,102.6,14.1,50,2.7,13.8,19.6,23.2,0,3.2,23.6,"Sr","1-Jun","Ohio St.",2.90177
+"310","Lenell Henry","Prairie View A&M","SWAC",55.7,97,18.9,48.8,11.1,18.6,8.2,22.4,5.7,1.2,26.4,"Sr","8-Jun","Alcorn St.",-0.25329
+"311","Vukasin Masic","Hofstra","CAA",27.8,74.9,16.4,35.1,0.4,10.2,10.3,22,0,0.9,13.4,"Fr","5-Jun","Maine",-2.95283
+"312","E.J. Anosike","Tennessee","SEC",17.5,98.8,14.9,34.2,13.4,12.1,5.6,10.3,0.6,2.5,52.6,"Sr","7-Jun","Cal St. Fullerton",1.5802
+"313","Jalen Cook","LSU","SEC",12.8,112.3,20.7,53.3,2.2,8.9,18.6,17.8,0,5.9,37,"Fr","Jun-00","Tulane",4.34603
+"314","De'Vondre Perry","Temple","Amer",60.9,98.3,17,49,6,13.9,10.6,15.8,2.5,1.7,21.4,"Sr","7-Jun","Albany",1.37386
+"315","Marcus Carr","Minnesota","B10",88.3,106.5,28.3,45.1,2.1,10,31.5,13,0.4,2.1,42.9,"Jr","2-Jun","Texas",0.843067
+"316","Luke Loewe","William & Mary","CAA",89.3,111.7,22.9,49.1,1.1,9.8,22.1,10.6,0,2.3,28,"Sr","4-Jun","Minnesota",-0.145847
+"317","Ibrahima Diallo","Ohio St.","B10",0.9,70.2,22.1,0,32.9,10,0,0,10.2,0,200,"So","10-Jun","San Jose St.",-5.80881
+"318","Ty Perry","Fordham","A10",37.1,91.8,24.1,43.8,1.1,11.7,12.6,12.4,0,2.1,34.7,"Jr","3-Jun","Buffalo",-0.587169
+"319","Javon Franklin","Auburn","SEC",11.4,88.4,16.7,41.4,13.2,18.5,5.7,23.7,8.8,1.3,34.5,"Jr","7-Jun","South Alabama",1.44262
+"320","T.J. Bickerstaff","Drexel","CAA",60.9,108.4,23,52.3,8.3,17.9,11.9,18.4,1.5,1.6,37.3,"So","9-Jun","Boston College",-0.349746
+"321","Jaylen Butz","DePaul","BE",65.4,96.6,19.8,57.7,8.3,13.1,6.2,23.4,3.1,2.2,56.3,"Jr","9-Jun","Western Kentucky",1.69579
+"322","Drew Buggs","Missouri","SEC",33.8,84.1,13.4,35.3,1.3,8.5,23.4,27.4,1.2,1.8,45.1,"Sr","3-Jun","Winthrop",1.31678
+"323","Josh Nickelberry","Louisville","ACC",14.5,80.2,15,31.9,1,5.7,4.7,6.9,0,0,5.6,"So","4-Jun","La Salle",-1.75896
+"324","Cole Swider","Villanova","BE",47.1,122.3,14.2,57.8,3.8,13.9,10.4,9.1,0.5,1.7,10.4,"Jr","9-Jun","Syracuse",1.57388
+"325","Remy Martin","Arizona St.","P12",76.3,106.1,28.7,50.5,1.5,8.1,23.6,14,0.1,2,43.9,"Sr","Jun-00","Kansas",-0.655675
+"326","Jamal Mashburn, Jr.","Minnesota","B10",54.6,91.4,21.2,39.9,1.1,6.6,15,12.4,0.5,1.1,22.2,"Fr","2-Jun","New Mexico",-0.585212
+"327","Jordan Nesbitt","Memphis","Amer",1,50.3,30.1,37.5,0,29.8,16,50.2,0,0,0,"Fr","6-Jun","Saint Louis",-4.41542
+"328","Jamaine Mann","Gardner Webb","BSth",52.1,106.7,19.3,53.3,11.3,17.7,6.9,15.9,2.7,1,68,"Fr","6-Jun","Vanderbilt",-1.98737
+"329","Angelo Allegri","UNC Greensboro","SC",60.2,102.5,16.5,46.9,4.8,13.5,3.6,11.4,0.2,1.4,12.7,"Jr","7-Jun","Eastern Washington",-0.282457
+"330","Latrell Jossell","Kansas","B12",2.1,126.4,16.4,50,0,9.4,7.9,0,0,2.4,25,"Fr","11-May","Stephen F. Austin",2.06703
+"331","Trey Phipps","Oklahoma","B12",11,102.8,17.8,48.7,1.9,9.4,9.1,10.8,0.9,1.9,15.8,"Fr","2-Jun","Oral Roberts",-0.32256
+"332","Paul Atkinson","Yale","Ivy",79.7,119.6,24.5,63.3,8.6,17.4,10.1,14.6,2.8,2.1,50.5,"Jr","10-Jun","Notre Dame",1.71039
+"333","Emmanuel Dowuona","Purdue","B10",2.4,93.4,24.5,46.2,11.2,20.6,8,16.9,13.2,4.1,0,"Fr","10-Jun","Tennessee St.",0.149733
+"334","Jameer Nelson Jr.","George Washington","A10",26.9,87.2,21.7,42.2,2,6.6,15.5,21.7,1.1,5.7,45.1,"So","1-Jun","Delaware",1.85597
+"335","Michael Durr","South Florida","Amer",56.8,104.5,18.5,42.6,12,23.1,4.1,14.5,4.6,1.5,45,"Jr","Jul-00","Indiana",0.48772
+"336","Te'Jon Lucas","Milwaukee","Horz",78.2,97.8,29.8,43.6,2.5,14.1,36.7,18.1,1,2,39.2,"Sr","2-Jun","BYU",-1.15961
+"337","Kris Bankston","Little Rock","SB",16.6,86.4,18.3,55.3,6.7,12.1,8.8,32.5,2.8,1.4,23.7,"Jr","8-Jun","Norfolk St.",-0.58636
+"338","Michael Green III","Bryant","NEC",82.3,95.2,25.8,44.9,2.4,8.3,18.2,21.6,0.3,1.7,41.1,"So","11-May","Robert Morris",-1.78797
+"339","Joel Kabimba","Stetson","ASun",13.7,81.8,15.4,50,5.2,16.3,2.9,31.6,2.6,0,23.1,"So","8-Jun","George Mason",-2.11571
+"340","Jamari Sibley","Georgetown","BE",11.2,81.4,13.6,52.4,5.7,11.6,0,32.1,1.8,1,28.6,"Fr","8-Jun","UTEP",0.517575
+"341","Kassim Nicholson","UAB","CUSA",67.4,105.2,14.8,48.2,9.2,18.6,5,11.9,2.5,1.8,24.4,"Sr","7-Jun","Tennessee St.",1.27065
+"342","Harrison Henderson","Southern","SWAC",45.7,99.4,24.7,48.8,12,27.2,5.1,17.1,2.1,1.6,58.2,"Sr","11-Jun","Central Michigan",-1.4346
+"343","Devin Tillis","UNLV","MWC",43.5,106,11.6,61,5.6,15,11.4,33.2,0,2.1,34,"Fr","6-Jun","UC Irvine",0.97061
+"344","A.J. Lawson","McNeese St.","Slnd",73.3,91.4,26,47.8,5.3,14.9,33.9,27.7,0.4,1.4,42.3,"Sr","5-Jun","Texas Southern",-3.34264
+"345","Anyang Garang","Oklahoma","B12",2.6,41.2,16.8,20,0,15.5,0,11.9,0,0,0,"Fr","9-Jun","UMBC",-4.18968
+"346","Justin Powell","Auburn","SEC",25.3,112.9,22.3,54.2,3.6,19.6,32.6,23,0,1.8,40.5,"Fr","6-Jun","Tennessee",0.82744
+"347","Mike Peake","Austin Peay","OVC",60.3,128.1,18.4,65.4,9.4,18,6.4,15,2.9,1.9,40.8,"So","8-Jun","New Mexico St.",0.0566127
+"348","Tyler Harris","Iowa St.","B12",57.5,89.7,19,48,1.4,6.7,8.3,20.1,0.2,2.4,11,"Jr","9-May","Memphis",-0.543324
+"349","Alonzo Sule","Texas St.","SB",51.6,94.8,23.6,47.6,7,11.1,10.3,20.6,3.1,1.3,32,"Jr","7-Jun","James Madison",-0.561964
+"350","RaeQuan Battle","Washington","P12",23.8,68.3,21.2,32,3.2,10.2,3.8,18.3,2,1.8,15.1,"So","5-Jun","Montana St.",-0.963632
+"351","Bryson Williams","UTEP","CUSA",74.8,101.1,24.3,48.5,5.7,21.4,6.3,14.5,1.6,1,27,"Sr","8-Jun","Texas Tech",-0.38886
+"352","Brandon McKissic","UMKC","Sum",74.1,103.8,28.9,57.6,2.4,12.4,23.7,18.9,0.5,2.8,26.2,"Sr","3-Jun","Florida",0.641269
+"353","Abdou Tsimbila","Penn St.","B10",7.2,94.3,17.8,42.1,17.4,22.3,5.3,17.9,14.5,1.6,15.8,"Fr","8-Jun","Fordham",3.49797
+"354","Cheikh Mbacke Diong","UNLV","MWC",71.8,110.5,15.7,59.6,11,18.4,5.2,19.2,4.5,2.5,34.9,"Sr","11-Jun","UCF",0.741028
+"355","Terry Nolan Jr.","Bradley","MVC",50.6,102.3,24,51.8,2.4,9.1,23.3,22.3,1.7,2.5,30.5,"Jr","4-Jun","Towson",0.56616
+"356","Payton Moore","Rice","CUSA",27.1,101.2,22.7,52.8,5.2,15.3,19.7,23.9,1.5,2.1,58.3,"Jr","4-Jun","Denver",0.193316
+"357","Michael Meadows","Eastern Washington","BSky",59.7,111,18.2,51,3.2,5.1,15.2,14,0.2,1,28.3,"So","2-Jun","Portland",-1.22806
+"358","Robert Jones","Denver","Sum",35.2,91.3,22.4,54.1,6.7,24,4,22.7,5,1.8,43.5,"So","10-Jun","Iowa St.",-1.42524
+"359","Xavier Cork","Western Carolina","SC",66.4,112.1,22.8,63.8,9.3,16.3,15.3,22.5,5,0.8,30,"So","9-Jun","TCU",0.0194977
+"360","John Hall","Portland St.","BSky",46.2,75.2,16.1,38.1,4.2,15.1,6.2,24.3,2.1,1.7,23.8,"Sr","7-Jun","UMass Lowell",0.0260351
+"361","Armaan Franklin","Indiana","B10",59.5,97.4,21.2,51.7,2.3,13.8,15.6,20.1,0.9,2.3,26.6,"So","4-Jun","Virginia",1.7668
+"362","Philip Pepple Jr.","SIU Edwardsville","OVC",7.9,109.4,15.7,52.2,7.7,11.9,0,9.3,9.9,2.2,13,"Jr","10-Jun","Idaho",0.00633988
+"363","Rudi Williams","Kansas St.","B12",42.1,90,17.4,45.8,3,14.8,16.6,22.9,0.5,1.3,14.3,"Jr","3-Jun","Coastal Carolina",0.435969
+"364","J'Raan Brooks","Washington","P12",13.2,97.7,16.4,60,3.3,15.8,4.4,22.6,0.7,0.8,43.3,"Jr","9-Jun","UC San Diego",-0.557348
+"365","Quinlan Bennett","Lamar","Slnd",36.6,84.9,22,49.6,4.6,13.4,9.7,25.8,0.3,2.5,30.9,"Jr","3-Jun","Western Illinois",-1.0863
+"366","Jordan McCabe","West Virginia","B12",26,87.8,15.5,37.1,1.4,10.6,20.3,30,0,2.6,37.9,"Jr","Jun-00","UNLV",1.38809
+"367","Michael Christmas","James Madison","CAA",36.3,97.5,20.4,50.6,8.7,16.6,5.7,17.7,1,2.3,18.3,"So","6-Jun","Longwood",-0.83717
+"368","Caleb Byrd","Charlotte","CUSA",2.8,78.4,17.5,41.7,0,0,0,26.3,0,0,33.3,"Fr","1-Jun","Jacksonville St.",-3.79278
+"369","Amound Anderson","Cal St. Northridge","BW",39.2,106.7,14,54.8,2.9,10.7,12.4,20.7,0.7,1.5,37.1,"Fr","3-Jun","Southern Utah",-1.56495
+"370","Braun Hartfield","San Diego","WCC",85.4,91.9,23.9,48.2,5,13.4,14.4,21.1,1.7,1.7,33.8,"Sr","6-Jun","Pepperdine",0.114395
+"371","Andrew Garcia","Georgia","SEC",42.8,106.2,23.9,53.6,13.4,12.6,5.9,20.5,1.7,1.8,43.5,"Sr","6-Jun","Kent St.",-0.248251
+"372","Xzavier Malone-Key","Fairleigh Dickinson","NEC",64.9,107.5,21.8,54.6,2.5,10.4,14.4,15.8,0.4,1,38.3,"Jr","4-Jun","Oregon St.",-3.22049
+"373","Rod Brown","New Mexico","MWC",53.5,87.3,19.2,42.3,9,13,10.4,23.7,1.4,1.4,48.1,"Jr","7-Jun","Jacksonville",-0.837425
+"374","Kevin Easley Jr.","TCU","B12",48.6,96,14.8,44.8,6.3,15.6,8.4,19.7,0.8,0.7,26.4,"So","7-Jun","Duquesne",-0.293562
+"375","Tyreke Locure","South Alabama","SB",79,102.9,21.9,48.2,3.4,11.4,17.2,15.7,0.3,3.4,26,"So","Jun-00","UAB",-0.261434
+"376","Mo Arnold","Jacksonville","ASun",80,83.8,17.9,41.4,4.1,13.9,13.3,23.1,0.7,2,31.5,"So","2-Jun","Southern Miss",-0.739821
+"377","Nate Pryor","Washington","P12",26.7,79.6,18.9,37.9,1.6,7,17.8,20.4,0.4,2.2,37.1,"Jr","4-Jun","New Mexico St.",-0.00612109
+"378","Justin Webster","Hawaii","BW",71,117.5,17.5,59,0.7,13.5,8,13.6,0,1.4,36,"So","3-Jun","UNLV",0.0458082
+"379","Evan Gilyard II","New Mexico St.","WAC",69.7,102.6,18.3,43.2,1.7,5.5,17.9,16.3,0,2.1,36,"Sr","10-May","UMKC",-0.301519
+"380","Kevin Osawe","Western Kentucky","CUSA",17.7,101.3,15.9,43.4,9.4,18,4.5,15.8,0.5,1.4,20.8,"Jr","6-Jun","Little Rock",-0.46564
+"381","Jase Townsend","Denver","Sum",76.2,104.2,29.2,49.6,2.1,13.9,17.4,14.6,0,1.8,33.8,"Jr","3-Jun","San Diego",-2.91009
+"382","Latrell Jones","Portland","WCC",67.3,100.5,21.2,52,3,16.6,10.7,17.1,1.5,1.5,41.2,"Jr","5-Jun","Nicholls St.",-1.90726
+"383","Zach Harvey","Cincinnati","Amer",21.3,110.4,16.7,60.2,2.2,6,8.5,15.4,0,1.4,35.2,"So","5-Jun","UC Santa Barbara",0.10063
+"384","Dylan Disu","Vanderbilt","SEC",53.9,111.3,23.1,55.8,8.5,26.1,10,16.6,4.4,2,39.8,"So","9-Jun","Texas",0.844566
+"385","KK Curry","South Alabama","SB",37.2,100.8,20,44.3,9.1,10.6,3.8,21.1,5.9,1.3,78.5,"So","6-Jun","Tennessee Martin",-1.42948
+"386","Jordan Brown","Arizona","P12",48.5,111.2,22.6,56,9.4,21.2,6.5,13.2,5.1,1.4,58.4,"So","11-Jun","Louisiana Lafayette",1.89126
+"387","Rifen Miguel","Ohio","MAC",8.8,74.9,27.3,37,9.8,13.7,0,31.8,1.4,2,51.9,"Jr","8-Jun","Troy",-1.99484
+"388","Rylan Bergersen","Central Arkansas","Slnd",83.6,105.6,25.6,49.6,2,10.4,29.8,17.4,1.2,2,49.1,"Sr","6-Jun","Eastern Washington",-1.9647
+"389","Theo John","Marquette","BE",65.3,106.7,16.7,58.3,7.3,14.3,9.4,24.6,6,1.4,52.9,"Sr","9-Jun","Duke",3.18416
+"390","Drew Pember","Tennessee","SEC",2.8,47,18.2,11.1,3.8,7.6,22.3,21.3,3.9,3.9,0,"So","10-Jun","UNC Asheville",2.41333
+"391","Avery Benson","Texas Tech","B12",8.7,123.5,12.4,80,6.8,8.3,14.5,14.2,3.6,1.8,60,"Jr","4-Jun","Texas",2.87898
+"392","DJ Horne","Illinois St.","MVC",71.5,103.1,25.7,53.8,1,13,17.8,16.6,0.5,2.8,13.4,"So","1-Jun","Arizona St.",0.387978
+"393","Danya Kingsby","Bradley","MVC",35.9,75,16.1,36.2,1.6,8.9,13.6,28.9,1.4,1.8,19.7,"Sr","1-Jun","Grambling St.",0.293841
+"394","Justin Minaya","South Carolina","SEC",71.8,103.4,13.2,44.6,8,15.3,9.9,14,2.7,1.2,18.8,"Jr","6-Jun","Providence",0.515499
+"395","Madut Akec","South Florida","Amer",18.7,85.7,15.1,48.5,4,14.3,6.5,31.8,0.8,1.5,11.8,"So","7-Jun","Detroit",0.236378
+"396","Nolan Dorsey","New Mexico","MWC",6.4,71.4,10.2,43.8,2,7,3.8,32.9,0,2.3,0,"Fr","5-Jun","Holy Cross",-1.04799
+"397","Josh Jefferson","Green Bay","Horz",55.1,102,30.1,47.9,2.9,12,21.6,13.6,1.1,2.1,28.9,"Sr","2-Jun","Middle Tennessee",-2.16105
+"398","Stef Smith","Vermont","AE",68.4,102.7,24,51,1.2,11,11.4,16.9,0.6,1.3,30.9,"Sr","2-Jun","St. John's",-1.47706
+"399","Luther Muhammad","Ohio St.","B10",60.6,108,15,48.8,2.3,8,9.9,17.1,0.3,2.4,37,"So","3-Jun","Arizona St.",3.31582
+"400","Jordan Perkins","North Carolina Central","MEAC",59.6,90.9,18.3,49,3.3,14.9,32.8,33.3,0,2.8,72.9,"Sr","1-Jun","Longwood",-1.07823
+"401","Gabe O'Neal","Kent St.","MAC",26,115.3,17.1,62.1,10.8,18.6,1.7,21.6,1.9,0.5,32.8,"Jr","7-Jun","Bowling Green",-0.943869
+"402","Kevin McAdoo","Bradley","MVC",31.1,86.8,18.1,40.7,0,9.5,11.9,17.4,1.2,0.4,20.9,"Jr","2-Jun","Detroit",-2.35519
+"403","Iran Bennett","Marshall","CUSA",1,27.3,31.2,0,25.6,35.6,0,58.5,0,0,0,"Jr","9-Jun","Eastern Kentucky",-5.22355
+"404","PJ Pipes","Green Bay","Horz",75.7,110.8,22.4,53.5,1,14.8,19.2,14.9,1.1,1.4,22.4,"Sr","2-Jun","Santa Clara",-1.67201
+"405","Charles Smith IV","SMU","Amer",36.9,120.8,13.6,64.3,2.8,7.7,5.8,14.8,0.5,1.1,14.3,"So","5-Jun","Old Dominion",-0.0304219
+"406","Aaron Cook","Gonzaga","WCC",31.4,106,17.5,57.8,2.2,11.2,17.3,25.7,1,3.5,38.9,"Sr","1-Jun","Georgia",3.68732
+"407","Dexter Akanno","Marquette","BE",5.8,44.5,18.4,18.2,3.9,8.6,2.7,45.2,0,0,45.5,"Fr","4-Jun","Oregon St.",-3.80728
+"408","Vuk Vulikic","UTEP","CUSA",8.9,133.3,6.7,57.1,1.5,6.6,19,11.8,0,0.8,0,"Fr","4-Jun","UC San Diego",-0.336724
+"409","Jamarius Burton","Texas Tech","B12",37.3,94.1,15.3,45.7,4.2,6.9,11.5,23.4,0.6,2.6,20.2,"Jr","4-Jun","Pittsburgh",2.39343
+"410","A.J. McGinnis","UNC Greensboro","SC",35.2,104.1,18.5,51.6,0.9,8.1,5.7,12.4,0.3,1.6,9,"Fr","3-Jun","Cincinnati",-0.378975
+"411","Pelle Larsson","Utah","P12",65.8,98.8,19.3,55.9,1.9,12.4,19.2,30.7,2,1.5,44.4,"Fr","5-Jun","Arizona",1.15783
+"412","Brion Whitley","Murray St.","OVC",19.7,96.8,17.4,54.9,1.3,12.4,3.9,19.7,1.9,0.9,27.5,"Jr","4-Jun","Southern",-1.21936
+"413","Josh Gray","LSU","SEC",2.8,88.4,18.4,50,16.7,21.5,0,18.1,3.4,0,116.7,"Fr","11-Jun","South Carolina",-1.78886
+"414","Xavier Castaneda","South Florida","Amer",56.6,99.7,20.8,44,0.9,10.5,23.8,20,0.5,1.1,28,"Jr","1-Jun","Akron",-0.683655
+"415","Cheikh Faye","Eastern Kentucky","OVC",15.6,94.4,22.1,41.5,6.6,14.2,4.1,6.9,2.5,1.8,6.1,"Jr","7-Jun","Charleston Southern",-2.17114
+"416","Johquin Wiley","Delaware St.","MEAC",86.9,84.3,18.4,38.3,1.5,10.9,20.6,25.3,0,2.5,29.7,"Jr","11-May","Hampton",-2.81757
+"417","Jordan Hairston","Texas A&M Corpus Chris","Slnd",35.4,72,25.4,33.8,3.1,9,22.2,24.6,0.7,3.4,25.7,"So","Jun-00","UNC Asheville",-1.84108
+"418","Jordan Skipper-Brown","Eastern Illinois","OVC",45.3,111.3,19.3,63.5,8,17.7,8.9,17.9,5.3,1.6,40.1,"Sr","6-Jun","Murray St.",-0.337715
+"419","Storm Murphy","Wofford","SC",87.9,113.6,26.2,57.6,2.2,8.4,26.1,18.7,0,1.5,27.1,"Sr","Jun-00","Virginia Tech",-1.59222
+"420","Myles Johnson","Rutgers","B10",61.5,113.1,17.3,62.8,13.3,25.3,6.1,16.7,10.5,2.7,39.7,"Jr","11-Jun","UCLA",5.04257
+"421","Clyde Trapp","Clemson","ACC",71.5,92.7,17.9,48.4,2.3,20.3,18.1,23.6,1.7,1.3,25.2,"Sr","4-Jun","Charlotte",2.55755
+"422","Greg Gantt","Providence","BE",52.5,97.9,13,45.7,4.2,12.3,14,21.3,1.5,1.7,27.7,"So","8-Jun","North Carolina St.",2.28548
+"423","Jailyn Ingram","Florida Atlantic","CUSA",59.2,98.4,23.5,46,5.3,22.7,14.7,15.6,1.8,1.8,11.8,"Sr","7-Jun","Georgia",0.162368
+"424","Woody Newton","Syracuse","ACC",7.7,108,18.8,58.9,2.6,21.9,2.2,14.2,4,2,28.6,"Fr","8-Jun","Oklahoma St.",1.65288
+"425","Mylik Wilson","Louisiana Lafayette","SB",83.6,102.4,21,46.6,3.4,13.9,16.7,16.5,2.6,3.5,29.1,"So","3-Jun","Texas Tech",2.34719
+"426","Amari Kelly","Duquesne","A10",15.4,85.3,19.2,50,9.8,10.1,0,24.6,4.2,1.1,2.9,"So","9-Jun","UNC Wilmington",-0.45203
+"427","Kamani Johnson","Little Rock","SB",69.8,113,22.2,51.3,13.2,14.2,15.3,19.4,2,1.4,100.5,"So","7-Jun","Arkansas",-0.14028
+"428","Keon Edwards","DePaul","BE",5.1,97.5,12.7,38.9,5.5,5.5,0,11.5,0,0,22.2,"Fr","7-Jun","Nebraska",-1.56182
+"429","Jacob Young","Rutgers","B10",75,98,27,51.7,1.1,5.9,23.3,21.4,0.3,3.3,25.9,"Sr","2-Jun","Oregon",1.69265
+"430","Nick Farrar","North Carolina St.","ACC",2.3,70.6,14.7,50,0,5.3,0,17.3,4.8,2.6,100,"Fr","6-Jun","College of Charleston",1.10139
+"431","Sam Griffin","UT Arlington","SB",61.5,108,25.9,51.1,1.1,7.5,19.2,10,0,1.7,15.4,"So","3-Jun","Tulsa",-2.34804
+"432","LaDarius Marshall","New Orleans","Slnd",30.9,112.3,16.8,59.1,13.3,17.8,4.7,16,5.3,2.3,66.7,"Jr","6-Jun","Alcorn St.",-0.177815
+"433","Quinton Morton-Robertson","Radford","BSth",42.8,103.5,19.2,52.2,1.2,10.7,14.3,21.2,0.3,2.7,36.5,"So","8-May","Fort Wayne",0.697832
+"434","Donavan Yap","UNLV","MWC",0.8,59.6,29.2,20,0,0,24.9,0,0,7.5,0,"Fr","3-Jun","Fresno St.",0.600865
+"435","Ty Groce","Eastern Michigan","MAC",83.7,115.5,21.8,56.7,5.6,18.7,13.9,12,2.8,2.3,29.2,"Sr","8-Jun","Butler",-0.385067
+"436","Damian Chong Qui","Mount St. Mary's","NEC",91,103.7,26.4,43.9,0.6,12.4,33.3,17.2,0.4,1.5,38.2,"Jr","8-May","Fort Wayne",-0.33156
+"437","Akol Arop","Nebraska","B10",8.7,104.2,10.6,59.4,7.8,17.3,1.6,18.2,5.3,2.9,43.8,"Fr","6-Jun","Nebraska Omaha",1.94591
+"438","Joseph Yesufu","Drake","MVC",60.4,113.2,26.1,51.3,1,8,14.1,11.5,0.3,2.6,27,"So","Jun-00","Kansas",0.559727
+"439","Jonathan Bolden","UMKC","Sum",0.1,0,0,0,0,0,0,0,0,0,0,"Jr","7-Jun","Bethune Cookman",-4.32833
+"440","Paul Newman","Bucknell","Pat",43.1,95.3,17.2,62.2,8.9,20.5,2.8,24.7,4.5,1.3,37.8,"Sr","9-Jun","Albany",-0.318337
+"441","Nate Lacewell","San Jose St.","MWC",27.8,71.9,17.6,28.3,6.2,16.9,2.8,16.5,2.8,0,37.7,"Fr","9-Jun","Texas St.",-3.96659
+"442","Charles Coleman","East Carolina","Amer",5.5,58.5,12.6,14.3,2.8,20.7,0,11.6,6.5,1.5,71.4,"So","Jul-00","Saint Joseph's",0.709286
+"443","Seventh Woods","South Carolina","SEC",40.7,76.8,20.3,39,1.2,9.1,18.6,26.7,0.3,3.1,10.5,"Sr","2-Jun","Morgan St.",0.269444
+"444","Scott Blakney","Idaho","BSky",50.9,100.5,26.4,59.1,6.2,12,7.1,22.8,0.5,0.8,39,"Sr","8-Jun","Montana",-2.78391
+"445","Seneca Knight","San Jose St.","MWC",10.8,65.2,32.2,24.3,6.2,21.7,10.5,19,0,3.4,51.4,"Jr","7-Jun","BYU",-2.22959
+"446","Najee Garvin","Nicholls St.","Slnd",62.2,94.1,27,47.2,6.5,22.8,5.2,17.3,1.2,2.1,31.8,"Jr","7-Jun","Hampton",-1.63185
+"447","Kevin Johnson","Nicholls St.","Slnd",81.8,106.5,17.6,48,2.3,6.1,15.5,14,0.5,4.1,30.8,"Sr","Jun-00","Illinois Chicago",1.42873
+"448","Matt DeWolf","Brown","Ivy",24.9,90.2,18.7,49.1,9.6,16,17.5,30.7,1.7,2.4,27.6,"Jr","9-Jun","Washington St.",0.828099
+"449","Tray Hollowell","Wofford","SC",81.5,96.9,18.4,51.9,0.2,12.8,11,18.8,0.3,1.2,12.3,"Sr","3-Jun","Morehead St.",-1.01789
+"450","Mike Hood","Montana St.","BSky",29.2,95.2,25.4,42.2,2.5,6.9,13.3,12.8,0,2.6,24.5,"Jr","2-Jun","Coppin St.",-1.09283
+"451","Bryce Monroe","Sam Houston St.","Slnd",54.3,92.2,27.5,41.1,0.6,5.7,24.3,21.6,0.2,0.9,35.5,"Fr","11-May","San Diego",-3.37999
+"452","Francis Okoro","Oregon","P12",39,106.1,12.8,53.7,12.5,16.6,2.3,18,5.3,1.1,76.1,"So","9-Jun","Saint Louis",1.06785
+"453","Miles Jones","Radford","BSth",18.6,86.8,13.2,39.1,6.1,20.1,13.5,24.5,1.9,1.3,18.8,"So","6-Jun","UNC Greensboro",0.770319
+"454","Myles Lewis","VMI","SC",52.9,99.2,22.4,50.3,8.8,23.2,8.3,16.9,3.2,1.9,32,"Sr","5-Jun","McNeese St.",-0.0171958
+"455","Marlon Ruffin","Nebraska Omaha","Sum",40.9,102,26.1,47.5,3.4,11.8,12.2,10.3,0.5,1.6,26.9,"Jr","5-Jun","Portland St.",-1.69008
+"456","Torrence Watson","Missouri","SEC",15,100.7,13.3,45.9,3.7,5.6,3.4,10.8,0.7,1.8,24.3,"Jr","5-Jun","Elon",0.185643
+"457","Cameron Healy","Albany","AE",21.4,77.6,20.2,32.6,0,12.8,9.6,12.5,0,2.1,19.6,"Jr","3-Jun","Central Michigan",-0.502344
+"458","Brendan Adams","Connecticut","BE",34.7,98.4,14.8,38.1,2.8,9.3,12.7,17.8,0.3,1.7,43.3,"Jr","4-Jun","George Washington",0.425605
+"459","Trevin Wade","Wichita St.","Amer",6.4,79.2,15.6,27.8,0,4.1,21.2,21.6,2.1,1.1,77.8,"Jr","11-May","Eastern Kentucky",-0.459337
+"460","Dimencio Vaughn","Mississippi","SEC",9.8,64.6,22.9,39.3,6.3,19.5,6.8,35.1,1.1,3.2,46.4,"Sr","5-Jun","Rider",1.49716
+"461","Brandon Martin","USC Upstate","BSth",1.6,105.2,18.7,66.7,16.8,26.1,16.4,22.2,0,4.2,33.3,"Jr","5-Jun","South Carolina",1.20974
+"462","Damari Milstead","San Francisco","WCC",33.2,92.5,21.5,44.4,2.3,8.6,20.9,21.8,0.9,2.9,21.2,"Jr","2-Jun","Cal St. Fullerton",0.630995
+"463","Glen McClintock","Air Force","MWC",59.6,89.7,13.8,50,2.6,12.4,13,26.6,0,1.9,31,"Fr","2-Jun","Northeastern",-2.04612
+"464","Victor Iwuakor","Oklahoma","B12",22.7,97,18.6,48.9,14.1,13.1,4.2,20,3.1,1.4,87.2,"So","7-Jun","UNLV",0.534689
+"465","Jamal Johnson","Auburn","SEC",63.3,109.5,16.7,48.6,2.4,7.9,9.7,11.8,0.6,1.7,23.4,"Jr","4-Jun","UAB",0.34089
+"466","Ryan Wade","Holy Cross","Pat",65.4,98.5,13.2,47.8,2.4,8.5,9,16.4,0.5,1.5,16.9,"So","2-Jun","Central Michigan",-1.56015
+"467","Jaheam Cornwall","Gardner Webb","BSth",76.8,112.2,24.4,54.9,2.2,9.8,26.5,16.5,0.3,1.3,21.9,"Sr","Jun-00","Penn St.",-2.27276
+"468","Alexis Yetna","South Florida","Amer",50.2,110.6,17.3,51.3,9.8,20.8,6.9,14.4,2.9,0.8,25.4,"Jr","8-Jun","Seton Hall",0.157867
+"469","Eric Boone","Georgia Southern","SB",63.1,93.8,25.4,45.5,2.5,13,22.5,21.2,0.4,4.6,34.5,"Jr","2-Jun","North Carolina Central",1.19059
+"470","David Caraher","St. John's","BE",2.9,69.4,14,35.7,0,10.7,14.4,24.2,0,0,14.3,"Jr","6-Jun","High Point",-3.57742
+"471","Quentin Scott","Texas St.","SB",27.9,90.2,19.3,35.1,7.3,8.5,8.9,11.3,1.6,1,28.4,"Sr","7-Jun","Tulane",-1.78316
+"472","Jacob Falko","Gardner Webb","BSth",72.5,102.8,19.6,46.8,3.7,15.6,12.9,14.5,0.6,2.9,26.6,"Jr","2-Jun","Binghamton",0.207737
+"473","Jake Boggs","UNC Wilmington","CAA",63.4,115.1,16.8,54,4.7,13.6,4.9,10,3.4,1.1,32.7,"So","7-Jun","South Florida",-1.1287
+"474","Ayinde Hikim","La Salle","A10",16.3,98.2,21.2,41.5,2.2,5.4,31.9,17.3,0,3.7,23.4,"So","11-May","UMass Lowell",0.0783303
+"475","Ajani Kennedy","Tennessee Martin","OVC",64.6,88.6,17.5,46.3,5.6,16.3,9,23.3,1.7,1.6,24.8,"Jr","9-Jun","Cal Poly",-2.24914
+"476","Brian Taylor","Illinois Chicago","Horz",22.1,85.2,13.7,48.8,1.2,9,2.8,19.2,3.2,1.8,23.8,"So","6-Jun","Central Michigan",-0.0879673
+"477","Justin Kier","Georgia","SEC",77.1,94.7,16.7,48.7,1.3,11.9,12.9,25.3,0.3,2.9,30.3,"Sr","4-Jun","Arizona",1.6455
+"478","Keith Williams","Cincinnati","Amer",68.2,96.2,29.8,44.2,6.1,11.2,21.3,15.3,2.8,2.4,42.6,"Sr","5-Jun","Western Kentucky",0.403993
+"479","Tyler Cochran","Northern Illinois","MAC",50.5,103.1,26.8,46.5,10.1,15.4,15.7,11.4,0.9,3.1,26.5,"So","2-Jun","Ball St.",-1.07552
+"480","Vince Cole","St. John's","BE",57.5,99.6,18.5,47.9,2.5,9.8,8.2,15.4,2.4,1,20,"Jr","6-Jun","Coastal Carolina",-0.87945
+"481","Kevin Obanor","Oral Roberts","Sum",82.1,116.4,26,57.8,8,24.1,6.4,14.9,1.9,1,34.7,"Jr","8-Jun","Texas Tech",-1.55533
+"482","Sam Hines Jr.","Denver","Sum",72,92.6,22.3,47.7,7.2,18.6,10.1,20.2,2.2,1.2,36.7,"Fr","6-Jun","South Florida",-2.50045
+"483","Anthony Gaines","Northwestern","B10",51.7,99,12.2,50.7,4.9,17.6,9,22.6,1.5,1.7,40.6,"Sr","4-Jun","Siena",2.30236
+"484","Jacob Davison","Eastern Washington","BSky",47.9,94.2,25.8,45.6,2.6,11.2,12.3,16.3,1.4,1.7,23,"Sr","4-Jun","Cal Poly",-0.389979
+"485","Jordan Goldwire","Duke","ACC",70.6,105.8,14.5,44.6,3.5,9,22,19.7,0.3,4.5,13.6,"Sr","2-Jun","Oklahoma",3.46777
+"486","Jahbril Price-Noel","Pacific","WCC",45.9,80.9,16.2,40.7,2.6,12.4,12.8,21.6,1.2,0.4,16,"Jr","7-Jun","Wagner",-1.3196
+"487","Chance Hunter","Long Beach St.","BW",66.9,88.6,22.2,49.2,3.3,17,8,19.6,0.8,1.6,19.4,"Jr","6-Jun","Cal Baptist",-0.940313
+"488","Marreon Jackson","Toledo","MAC",84.4,111.1,28.6,50,1.9,16.8,32.3,17.5,0.9,3.1,25.9,"Sr","1-Jun","Arizona St.",1.41198
+"489","CJ Kelly","Albany","AE",63.4,109.3,24.1,58.6,2.2,15.2,15.1,17.7,1.4,2.3,44,"Jr","5-Jun","Massachusetts",0.627497
+"490","Garrison Brooks","North Carolina","ACC",67.6,103.7,18.8,47.7,8.6,17.9,9.1,16.9,3.2,1.4,38.5,"Sr","10-Jun","Mississippi St.",2.21852
+"491","Avery Diggs","UCF","Amer",17.1,116.5,15.1,59.7,9.2,10.2,14,17.4,1.5,0.7,8.3,"Sr","11-Jun","Chattanooga",0.0164427
+"492","Brandon Johnson","Minnesota","B10",61.4,114.7,16.5,50,8.4,17.9,5.4,9.5,2.6,1.8,55.1,"Sr","8-Jun","DePaul",1.61952
+"493","Jamarcus Jones","Southern","SWAC",4.1,104.8,21.9,50,3.7,17.9,7,0,0,0,110,"Jr","7-Jun","Jackson St.",0.597338
+"494","John McGriff","St. John's","BE",8.4,70.4,13.4,32.4,1.2,12.4,16.3,30.7,1.2,2.9,11.8,"Fr","Jun-00","Binghamton",0.460302
+"495","Shon Robinson","Mississippi","SEC",1.7,83.9,30.5,30,18.2,12.6,0,0,6.3,0,50,"Fr","11-Jun","San Jose St.",-4.606
+"496","Jordan Miller","George Mason","A10",73.4,109.6,24.2,51.2,7.7,13.2,13.3,13.9,1.2,1.7,27.2,"Jr","6-Jun","Miami FL",-0.388672
+"497","Al Durham","Indiana","B10",65.8,108.3,19.1,52.6,0.7,8.4,18.1,21.5,1.4,1.2,52.6,"Jr","4-Jun","Providence",1.60505
+"498","Terrell Brown Jr.","Arizona","P12",63.6,113.7,16.5,43.4,2.3,13.3,24.8,12.2,1,2.1,42.1,"Sr","3-Jun","Washington",2.64344
+"499","Mitch Listau","Belmont","OVC",18.1,107.9,13.7,55.8,1.7,9.8,8.1,15.3,1,0.5,9.6,"So","4-Jun","Green Bay",-2.25857
+"500","Zep Jasper","College of Charleston","CAA",80.1,105.6,25.1,47.2,2.8,11.6,18.3,10.7,0.5,1.5,18.1,"Jr","1-Jun","Auburn",-2.11806
+"501","Sardaar Calhoun","Florida St.","ACC",35.2,105.6,17.9,52.2,2.5,8.8,7.2,17.1,0.6,2.1,12.1,"Jr","6-Jun","Texas Tech",0.847408
+"502","Antonio Rizzuto","Albany","AE",73.8,102.8,20.6,53.7,1.4,5.6,4.9,13.1,0.7,1.6,22.2,"Jr","3-Jun","Towson",-1.14745
+"503","Rollie Worster","Utah St.","MWC",61.7,96.4,20.7,45.6,3.1,12.3,24.4,24.6,1,1.8,23.2,"Fr","3-Jun","Utah",2.17248
+"504","Volodymyr Markovetskyy","Washington St.","P12",22.6,103.7,12.4,65.8,10.7,14,3.4,28,5.5,0.5,28.9,"So","1-Jul","San Francisco",2.70071
+"505","Braelee Albert","Vanderbilt","SEC",17,80.1,8.2,28.6,4,12,7,20.5,0,1.7,9.5,"So","5-Jun","Tulane",0.797985
+"506","Caleb Mills","Houston","Amer",6.1,106.6,24.9,46.6,2.9,4.4,2.7,19.4,0,4,41.4,"So","3-Jun","Florida St.",3.70163
+"507","Malik Curry","Old Dominion","CUSA",73.1,102.8,27.3,49.6,2.1,11.2,24.1,19.9,1,3.4,36.5,"Sr","1-Jun","West Virginia",1.1624
+"508","Daejon Davis","Stanford","P12",32.1,105.3,21.4,52,2.2,11.5,22,19.9,0,2.1,37,"Sr","3-Jun","Washington",1.45179
+"509","DaJuan Gordon","Kansas St.","B12",61,87.4,21.5,42.4,6,18,10.8,22.6,0.2,2.5,26.8,"So","4-Jun","Missouri",1.44886
+"510","Terrance McBride","Cornell","Ivy",82.6,108.6,21.8,53.1,3.3,10.4,20.4,15.4,0.4,1.8,27.7,"Jr","2-Jun","Rice",-2.21588
+"511","Liam Robbins","Minnesota","B10",48.3,103.9,24.8,48.3,9.8,18.9,9.9,15.1,10.9,1.5,53.5,"Jr","Jul-00","Vanderbilt",3.30568
+"512","Raymond Hawkins","Alabama","SEC",0.4,0,10.5,0,0,0,0,100,0,0,0,"Fr","9-Jun","Long Beach St.",-0.574974
+"513","Walter Ellis","Bucknell","Pat",69.4,103.3,16.4,54.9,1.5,13.4,11.1,19.1,2.2,2.3,23.2,"Jr","5-Jun","Grand Canyon",-0.284993
+"514","Dwayne Cohill","Dayton","A10",31.6,97.5,12.4,54.6,3.1,9.4,8.1,29.6,1.1,1.8,42.6,"So","2-Jun","Youngstown St.",2.27962
+"515","Gabe Stefanini","Columbia","Ivy",79.9,95.4,26.6,47.5,2.3,17.5,25.3,21,0.1,2.6,23.6,"So","3-Jun","San Francisco",-0.295282
+"516","Montez Mathis","Rutgers","B10",52.7,91.3,23.5,43,5.3,9.4,7.2,12.7,1.5,1.9,30.8,"Jr","4-Jun","St. John's",0.0212056
+"517","Jalon Clark","Texas A&M Corpus Chris","Slnd",15.7,77.1,20.9,48.8,4,14.2,9.8,31,0,1,41.9,"Fr","6-Jun","Prairie View A&M",-1.65217
+"518","Jay Heath","Boston College","ACC",79.5,98.6,22.5,49.6,2.2,8.8,11.5,15.5,0.3,1.4,14.4,"So","3-Jun","Arizona St.",-1.95279
+"519","Justin Winston","St. Bonaventure","A10",2.1,73.2,24.1,22.2,0,18.7,0,0,0,0,22.2,"So","8-Jun","Robert Morris",-2.38263
+"520","Sahvir Wheeler","Georgia","SEC",87.4,93.1,26.4,42.3,2.1,10.1,37.5,25,0.1,2.6,30.4,"So","10-May","Kentucky",-0.699857
+"521","DeVon Baker","UNC Asheville","BSth",22.1,113.9,23,59.1,1.3,8.1,6.3,10.9,0,4.5,9.8,"Jr","2-Jun","Tulane",1.12932
+"522","David Jenkins Jr.","UNLV","MWC",74.3,102.3,25.4,49.8,1.6,8.1,10.8,14,0.3,0.8,20.4,"Jr","2-Jun","Utah",-2.8325
+"523","Phillip Russell","Saint Louis","A10",8,77.9,22.4,35.7,3.4,3.6,22.1,31.1,0,4.4,9.5,"Fr","10-May","Southeast Missouri St.",0.605309
+"524","Walker Miller","North Carolina","ACC",1.6,96.8,12.3,33.3,5.8,12.1,0,24.9,6,0,66.7,"Sr","11-Jun","Monmouth",2.31613
+"525","Cory Hightower","Western Carolina","SC",55,94.5,26.7,47.9,3.6,20.9,15.4,21.7,1,2.1,31.9,"Jr","7-Jun","Winthrop",-0.493403
+"526","Carlos Rosario","McNeese St.","Slnd",67.1,120.7,18.1,62.9,8.4,13.4,5.8,14.7,1.5,0.8,32.9,"Sr","8-Jun","Florida Gulf Coast",-2.94126
+"527","Joe Pridgen","UNC Wilmington","CAA",68.8,112.3,18.7,58.1,10,18.1,10.4,17.9,2.2,1.9,37.8,"So","5-Jun","Northeastern",-0.83407
+"528","Jacob Ognacevic","Valparaiso","MVC",30,117.4,19.1,66,5.5,11.6,3.1,11.9,1.1,0.4,25.8,"Fr","8-Jun","Lipscomb",-1.41263
+"529","Matt Halvorsen","Western Carolina","SC",88.1,111.8,14.1,54.8,0.1,7.8,5.1,10,0.1,0.7,33,"Sr","1-Jun","Florida Gulf Coast",-1.85435
+"530","De'Von Cooper","Morehead St.","OVC",80.3,104,21.3,52.2,1.5,16.3,16.1,21.7,1.1,1.1,39.5,"Jr","4-Jun","George Mason",0.838314
+"531","Shakeel Moore","North Carolina St.","ACC",46.1,92.9,22.9,51,2.4,13.8,17.8,23.7,1.9,4.4,19.1,"Fr","1-Jun","Mississippi St.",3.03066
+"532","Ethan Chargois","SMU","Amer",60.3,94.2,23.5,44.2,6.2,18.3,19.2,21,2,2.1,32.1,"Sr","9-Jun","Oklahoma",1.45933
+"533","Erik Stevenson","Washington","P12",66.3,89.9,22.3,43.2,2.3,13.2,16.3,17.3,1,2.4,15.6,"Jr","3-Jun","South Carolina",0.385671
+"534","David Didenko","Georgia Tech","ACC",0.8,0,9.7,0,0,28.3,0,0,0,0,0,"Jr","9-Jun","Tennessee Martin",-5.31817
+"535","Baylor Hebb","Loyola Chicago","MVC",10.3,101.3,21.3,54,1.1,14,9.4,24.5,1,2.1,96,"Fr","2-Jun","Colorado St.",1.5267
+"536","Carl Pierre","Massachusetts","A10",82.4,102.7,18.3,47.1,1.5,11.8,9.1,7.1,0.2,1.4,24,"Sr","4-Jun","Rice",-0.707025
+"537","Daniel Sackey","Valparaiso","MVC",56.7,82.9,18.9,34.7,2.1,9.9,26.8,21.3,0,2.9,27.7,"Jr","9-May","New Orleans",0.497988
+"538","Deshon Parker","Appalachian St.","SB",30.6,63.3,10.9,19.1,0.7,6.1,15.3,29.9,1.1,1,58.8,"Jr","4-Jun","Cleveland St.",-1.83173
+"539","Mickey Pearson Jr.","TCU","B12",13.6,88.8,11.4,45.5,4.2,10.5,6.6,18.3,1.5,0.4,36.4,"Fr","7-Jun","Ball St.",-0.790259
+"540","Jermaine Jackson Jr.","LIU Brooklyn","NEC",69.3,101.1,22.7,46.3,1.8,6.7,19.8,19.4,0.4,1.6,31.4,"Jr","10-May","Central Michigan",-1.92565
+"541","Christian Brown","Georgia","SEC",17.9,98.2,19.7,49.1,7.2,14.8,1,19.3,2.3,2.4,50.9,"So","6-Jun","Tennessee St.",0.201677
+"542","Gabe Madsen","Cincinnati","Amer",1.3,82.6,15.8,50,9.1,9.8,0,29.6,0,4.7,0,"Fr","5-Jun","Utah",2.83864
+"543","Chris Lykes","Miami FL","ACC",5.3,120,27.7,47.7,0,16.3,38.5,11.2,2,4.1,50,"Sr","7-May","Arkansas",4.4088
+"544","Everette Hammond","USC Upstate","BSth",76.6,90.3,27.2,38.9,2.3,10.1,17,14.9,0.5,2,35.6,"Jr","3-Jun","UMass Lowell",-2.5079
+"545","Shaun Doss","Arkansas Pine Bluff","SWAC",84.6,89.6,28.2,42.5,4.7,17.8,11.2,18.2,2.1,1.6,47.6,"Jr","5-Jun","SIU Edwardsville",-3.32241
+"546","Keshawn Williams","Tulsa","Amer",19.9,63.3,24.8,18.1,0.7,7.4,16.9,28.9,0.7,3.2,51.1,"Fr","3-Jun","Northern Illinois",-0.646727
+"547","Gerald Drumgoole Jr.","Pittsburgh","ACC",5.5,82.9,23.6,37.5,6.8,7.2,4,25.7,2.5,1.2,37.5,"So","5-Jun","Albany",-2.20076
+"548","Brandon Battle","Alabama St.","SWAC",67.6,88.1,26.1,47.6,11.1,20.2,6.6,22.5,1,1.7,59.8,"Sr","8-Jun","Illinois Chicago",-2.67111
+"549","Aundre Hyatt","LSU","SEC",32.8,119.1,13.2,50.6,9.5,11.2,4.7,9.8,2.1,1,22.4,"So","6-Jun","Rutgers",-0.233035
+"550","Clevon Brown","Vanderbilt","SEC",31.9,88.1,11.1,52.1,3.6,14.7,2.9,25.9,5.3,2,34,"Sr","8-Jun","FIU",2.00577
+"551","Kyle Arrington","Western Illinois","Sum",30.6,107.8,17.8,57.4,11.4,23.2,5.7,21.1,4.2,1.5,54.1,"Jr","10-Jun","Siena",-0.672155
+"552","Eddie Scott","Penn","Ivy",41,113.1,13.2,60,4,15.4,8.9,17,0.2,1.2,33.8,"Jr","6-Jun","Long Beach St.",0.199849
+"553","Boogie Ellis","Memphis","Amer",58.4,103.6,20.6,50.8,1.4,8.5,12.8,15.6,1.1,2.5,28.3,"So","3-Jun","USC",2.41062
+"554","Alejandro Vasquez","St. Bonaventure","A10",33.6,92.1,20.7,37,2.5,6.4,9,13.6,0.4,2.2,33.7,"So","3-Jun","Tarleton St.",0.47955
+"555","Tahirou Diabate","Portland","WCC",49.8,95.7,26.3,55.9,10.5,18,5.1,20.9,4.6,1.8,49,"Jr","9-Jun","San Diego St.",0.1096
+"556","Amari Davis","Green Bay","Horz",86,101.2,26,45.2,2.1,10.6,11.6,9.8,1,2.3,29.7,"So","3-Jun","Missouri",-1.86769
+"557","Darryl Morsell","Maryland","B10",71.9,96.4,20.2,51.1,2.7,13.3,19.3,20.7,2.4,1.8,27.1,"Sr","5-Jun","Marquette",2.09661
+"558","Kellan Grady","Davidson","A10",87,111.1,24.3,55.3,1.5,15,14.8,12.4,0.9,1.4,24.6,"Sr","5-Jun","Kentucky",-0.828376
+"559","Deivon Smith","Mississippi St.","SEC",55.5,87.9,18.4,38.8,2.1,15.7,23.7,24.1,1.4,2.3,20.3,"Fr","1-Jun","Georgia Tech",2.17479
+"560","Kyler Edwards","Texas Tech","B12",77.3,116.2,16.4,53.4,1.8,16.9,16.8,15.3,1.9,2.1,31.8,"Jr","4-Jun","Houston",3.29502
+"561","Joe Petrakis","Kansas St.","B12",2.8,108.6,22.1,50,7.5,12.2,0,0,0,0,30.8,"So","9-Jun","Western Carolina",-1.51643
+"562","Brevin Galloway","College of Charleston","CAA",13.7,109.1,34.5,54.1,1.3,14.6,29.8,13.4,2.6,3.9,20.4,"Sr","2-Jun","Boston College",0.782029
+"563","Jimmy Nichols Jr.","Providence","BE",25.4,109.9,17.5,60.7,5.4,10.6,8.5,21.4,3.1,2.2,20,"Jr","8-Jun","VCU",2.48241
+"564","Jaron Williams","Tennessee Martin","OVC",66.8,94.8,20.4,54.4,2.8,11.6,11.7,24.9,1.2,1.6,23,"Jr","6-Jun","Robert Morris",-2.45104
+"565","Tyree Pickron","Quinnipiac","MAAC",15.3,58.6,16.1,27.9,1.6,13.6,4.4,10.1,1.5,1.6,2.3,"Jr","3-Jun","LIU Brooklyn",-0.383329
+"566","Shawn Williams","Nicholls St.","Slnd",9.2,88.8,16,36.2,2.4,7.2,3.6,7.6,0,0,17.2,"Sr","1-Jun","Arkansas Pine Bluff",-3.71243
+"567","Tyon Grant-Foster","Kansas","B12",14,82.4,25.5,41.1,8.8,20.1,3.7,19.4,5.4,2.1,33.9,"Jr","7-Jun","DePaul",1.36118
+"568","Quadry Adams","Wake Forest","ACC",8.5,102.9,17.3,50,8,5.3,12.2,14.3,0,3.3,50,"Fr","3-Jun","St. Bonaventure",0.647348
+"569","Koby Jeffries","UAB","CUSA",3,73.8,11.3,25,0,14.7,10,16.2,0,1.8,100,"Fr","3-Jun","Tennessee Martin",0.16571
+"570","Tanner Groves","Eastern Washington","BSky",67.7,117.7,27.3,61.1,5.9,25.9,11,14.2,3.8,0.5,39.7,"Jr","9-Jun","Oklahoma",0.942649
+"571","Rasir Bolton","Iowa St.","B12",72.3,100.5,26.7,50.2,1.5,15.3,26.4,20.9,0.4,2.2,32.5,"Jr","3-Jun","Gonzaga",0.477961
+"572","Reginald Gee","Austin Peay","OVC",44.7,100.9,19.2,44.6,2.5,12.6,5,16.1,0.8,1.3,38.6,"Sr","3-Jun","Louisiana Monroe",-1.59491
+"573","Dom London","Florida Gulf Coast","ASun",28.3,95,20.8,41.1,2.9,9.4,7.8,8.9,0.6,2.2,16.4,"Jr","1-Jun","Maryland Eastern Shore",-1.22151
+"574","Dontarius James","Jacksonville","ASun",69.3,99.3,29.7,52.9,3.4,13.5,9.2,20.5,2.3,1.8,32.1,"Jr","8-Jun","Howard",-1.15424
+"575","Kur Kuath","Oklahoma","B12",42.5,110.5,16,53.4,9.7,15,7.3,13.2,9.2,1.1,17.2,"Sr","10-Jun","Marquette",2.41973
+"576","Qudus Wahab","Georgetown","BE",69,109.8,21.3,59.1,10.4,21.1,1.6,18.9,6.1,0.8,52.6,"So","11-Jun","Maryland",1.86739
+"577","Emmitt Matthews Jr.","West Virginia","B12",63.9,101.9,16.6,44.4,6.7,10.4,7.5,17.3,1.8,1.3,32.5,"Jr","7-Jun","Washington",0.437353
+"578","Trent Hudgens Jr.","Santa Clara","WCC",5.8,62.6,22.3,42.9,2.5,2.5,20.4,45.5,2.3,0,85.7,"Fr","2-Jun","Northern Colorado",-3.32669
+"579","Lamar Norman Jr.","Duquesne","A10",13.1,84.9,14.1,32.7,2.3,4.8,5.9,8.8,0,1.9,11.5,"Jr","3-Jun","Western Michigan",-1.67494
+"580","Casey Morsell","Virginia","ACC",34.2,90,20.3,44.3,2.4,9,8.1,12.3,2.1,1.5,10.4,"So","3-Jun","North Carolina St.",0.15533
+"581","Imajae Dodd","UNC Wilmington","CAA",17.5,103.7,12.7,50,9.1,12.1,5,11.9,8.8,0,40,"So","6-Jun","Charleston Southern",0.267352
+"582","Greg Lee","Western Michigan","MAC",68.3,99.5,28.5,52.7,6.7,23.7,22.8,18.9,0.8,0.5,21.1,"Sr","9-Jun","Penn St.",-0.311651
+"583","Foster Loyer","Michigan St.","B10",28.1,110.2,15.1,41.9,1.4,9.2,25,14.6,0.3,0.7,36.8,"Jr","Jun-00","Davidson",0.275531
+"584","Miller Kopp","Northwestern","B10",78.7,94,19.1,45.9,1.9,9.2,7.4,14,0.3,1.9,26.7,"Jr","7-Jun","Indiana",0.947916
+"585","Tre Edwards","Akron","MAC",0.8,174,21,83.3,15.9,15.2,0,0,0,0,33.3,"Fr","6-Jun","UMBC",2.40183
+"586","Ryan Burkhardt","North Florida","ASun",51.4,104.5,11.3,55.7,1.7,8.3,3,15.6,0.4,1,5.7,"Sr","4-Jun","Southeastern Louisiana",-2.24573
+"587","Colby Rogers","Cal Poly","BW",65.4,84.7,25.4,42,2.1,11.1,18,18.1,0.5,1.8,18.5,"So","5-Jun","Siena",-1.82354
+"588","Alanzo Frink","South Carolina","SEC",6.7,74.7,12.3,44.4,5.3,17.1,0,30.9,2,0,44.4,"Jr","8-Jun","East Carolina",-0.704859
+"589","Chandler Lawson","Oregon","P12",45.3,103.3,14.4,53.1,6.1,14,7.3,17.8,2.8,1.6,36.7,"So","8-Jun","Memphis",1.53848
+"590","Jahlil Jenkins","Fairleigh Dickinson","NEC",92.1,101.2,24.2,47.2,1,6.8,16.6,17.8,0,2.3,27.2,"Sr","Jun-00","Stony Brook",-3.33742
+"591","Kobe Elvis","DePaul","BE",49.9,85.3,17.7,49,1.7,6.7,18.1,30.2,0.6,2.1,8.2,"Fr","2-Jun","Dayton",0.79673
+"592","Henry Coleman III","Duke","ACC",9.8,99.2,15.7,50,15.7,16.3,5.2,19.4,6.6,1.8,25,"Fr","7-Jun","Texas A&M",-0.0933712
+"593","Yvan Ouedraogo","Nebraska","B10",29.7,87.7,15.2,41,12.3,11.4,4.9,12.8,4.2,1.8,59,"So","9-Jun","Grand Canyon",1.09353
+"594","Jarron Coleman","Ball St.","MAC",37.7,106.7,26.2,59.6,4.8,15.8,24.8,24.8,1.8,1.4,24.6,"So","5-Jun","Missouri",0.234035
+"595","Jordyn Adams","Austin Peay","OVC",55,88.3,21.7,40.4,1.9,10,14.4,23.6,0.6,2.2,17.2,"So","3-Jun","Lamar",-1.79358
+"596","Justin Whatley","North Carolina Central","MEAC",42.5,99.9,15.2,51.1,5.6,15.6,12.3,22.1,2.5,1.6,31.1,"Jr","8-Jun","North Carolina A&T",-1.20059
+"597","Simon Wright","Elon","CAA",53.8,104.7,14.6,57.3,6.8,9.7,7.3,20.4,0,1.6,22.7,"Sr","7-Jun","Maryland",0.01547
+"598","Cam Bacote","Indiana St.","MVC",20.1,111.4,12.3,60.8,1.3,7.1,11.9,17.9,0,0.6,5.4,"Jr","3-Jun","Western Carolina",-0.7585
+"599","Jaylen Fornes","Nicholls St.","Slnd",44.3,105.1,19.6,50.7,3.9,11.7,6.5,12.8,0.2,1.5,32.4,"Sr","3-Jun","UNC Wilmington",-1.82878
+"600","Joe Reece","Old Dominion","CUSA",59.9,94.3,19.2,48.9,7.4,15.6,7.4,19.6,2.6,1.3,37.2,"Jr","8-Jun","Bowling Green",-0.385932
+"601","Adham Eleeda","Northern Kentucky","Horz",37,114.5,12.8,52.2,3.7,11.6,4.3,12.6,0,0.6,5.5,"Sr","5-Jun","Bryant",-2.38446
+"602","Michael Steadman","Montana","BSky",39,85.3,23.9,52.2,4.2,23.2,2.7,25.9,3.4,0.7,29.3,"Sr","10-Jun","Massachusetts",0.511221
+"603","Jaylen Minnett","IUPUI","Horz",70.6,96.6,27.6,47.2,0.9,7,20,17.3,0.4,1.9,21.6,"Sr","1-Jun","Missouri St.",-2.15986
+"604","Greg Williams Jr.","St. John's","BE",54.3,110.8,17.6,54.4,1.1,8.6,14.3,16,2.5,2.9,46.3,"Jr","3-Jun","Louisiana Lafayette",1.77681
+"605","Brandton Chatfield","Washington St.","P12",2.1,95.1,16,66.7,4.9,14.8,0,31.5,0,0,0,"Fr","10-Jun","Seattle",1.25716
+"606","Sadaidriene Hall","East Tennessee St.","SC",1,56.3,33.4,20,13.1,0,22.4,19.8,0,0,0,"Fr","5-Jun","Stephen F. Austin",-11.7494
+"607","Robby Robinson","Nevada","MWC",28.8,73.1,9.7,25,8.2,21.8,4.7,26.4,1.3,1.4,25,"Jr","8-Jun","New Orleans",1.0417
+"608","Trenton Massner","Northwestern St.","Slnd",66.7,105.9,22.9,55.3,3.6,14.8,18.7,17.2,1.5,2.5,27.2,"Jr","2-Jun","Western Illinois",-0.643353
+"609","Takal Molson","Seton Hall","BE",48,86.3,19.2,38.5,5.4,11.9,8.4,20.9,0.6,1.6,42.2,"Jr","5-Jun","James Madison",0.111857
+"610","KJ Buffen","Mississippi","SEC",52.6,107.3,20.7,51.9,9.2,14.3,13.1,19.3,3.2,2.3,49.7,"Jr","7-Jun","UAB",2.67759
+"611","Thomas Kithier","Michigan St.","B10",25,125.9,12,65,13.3,12.3,12.2,20.6,1.5,0.8,32.5,"Jr","8-Jun","Valparaiso",1.86752
+"612","Tahlik Chavez","Iona","MAAC",20.7,93.9,21.7,33.3,3.2,11.3,16.4,14.1,0.8,2.3,29.6,"So","1-Jun","Charleston Southern",-1.30577
+"613","Noah Farrakhan","East Carolina","Amer",14.5,80.6,19.6,46.6,1,11.3,18.7,28.3,0,1.1,13.8,"Fr","2-Jun","Eastern Michigan",-0.62155
+"614","Jaden Seymour","Wichita St.","Amer",1.6,79.7,25.9,40,8.1,0,0,17.4,0,0,40,"Fr","9-Jun","East Tennessee St.",-3.83387
+"615","Rastislav Sipkovsky","Hartford","AE",1,0,0,0,0,22.6,0,0,0,0,0,"Fr","6-Jun","Central Michigan",0.824108
+"616","Izaiah Brockington","Penn St.","B10",73.6,102.7,22.6,45.2,3.8,16.3,12.2,14.5,0.9,1.9,30.1,"Jr","4-Jun","Iowa St.",0.726947
+"617","Quinn Slazinski","Louisville","ACC",52.3,113.6,15.1,49.4,5.2,13.6,5,11.5,0.3,1.4,52.2,"So","8-Jun","Iona",1.82444
+"618","Ashton Miller","Duquesne","A10",17.4,61.4,12.7,23.3,1.7,5.9,2.4,15.5,0.5,1.4,22.2,"Fr","5-Jun","Wagner",-0.604385
+"619","Matt Faw","Holy Cross","Pat",64.3,104.8,22.4,51.9,6.8,17.8,6,12.3,7.2,2.1,19.7,"Sr","9-Jun","NJIT",0.303302
+"620","Luka Barisic","UTSA","CUSA",15.1,96.7,21.2,42.5,8.7,18,12.2,9.8,0,0.8,3.8,"Sr","10-Jun","Western Illinois",-2.45431
+"621","Jarrod Simmons","Penn","Ivy",15,85.8,17.9,42.2,10.2,12.7,7.5,28.1,1.8,0.4,34.4,"Jr","8-Jun","Hofstra",-0.803243
+"622","James Jean-Marie","Hawaii","BW",53.5,108.7,26.6,56,9.3,16.7,4.1,17.2,1,1,39,"Sr","8-Jun","Portland St.",-1.51993
+"623","Emmanuel Okpomo","Wake Forest","ACC",15.6,85.3,9.7,55.6,7,15.5,1.4,41.7,9.6,1.8,88.9,"Fr","10-Jun","Temple",3.91585
+"624","Ethan Henderson","Arkansas","SEC",8.6,127.3,9,71.4,11.6,10.6,2.9,16.1,11.5,0,28.6,"Jr","8-Jun","Texas A&M",3.7458
+"625","Antonio Gordon","Kansas St.","B12",44,94.8,16.9,46.8,11.8,17.4,7.9,21.8,1.8,1.5,25.2,"So","9-Jun","Southeastern Louisiana",0.656291
+"626","Rylan Jones","Utah","P12",41.3,105.5,14.1,44.3,1.9,7.1,27.7,19,0.3,2.8,24.3,"So","Jun-00","Utah St.",2.15787
+"627","AJ Wilson","George Mason","A10",52,90.2,22.5,41.5,8,17.6,7.3,12.5,9.8,0.5,23.5,"Sr","7-Jun","South Carolina",0.792186
+"628","Jack Nunge","Iowa","B10",27.7,116.4,24.2,50,15.3,20,14.6,13.5,5.7,1.1,27.3,"So","11-Jun","Xavier",1.28488
+"629","Jayce Johnson","Middle Tennessee","CUSA",40.3,88.9,17.3,50,3,18.4,13.1,24.4,1.5,2.1,23.8,"Jr","5-Jun","Siena",0.342189
+"630","Xavier Pinson","Missouri","SEC",63.2,97.1,30.5,46,1.9,10.1,24.5,21,0,2.4,35.9,"Jr","2-Jun","LSU",-0.0756445
+"631","Finn Sullivan","San Diego","WCC",67.6,97.5,15.3,48.9,1.9,7.7,18.6,18.9,1.6,2.2,17.2,"Jr","4-Jun","Vermont",0.921235
+"632","Jalen Dalcourt","San Jose St.","MWC",42.5,81.3,23.8,43.1,0.6,10.4,7.3,16.6,0.6,1.6,14.6,"Jr","2-Jun","Louisiana Lafayette",-3.53843
+"633","Robert Braswell","Syracuse","ACC",25.9,104.9,15.3,47.5,4.3,12.4,1.8,10.5,2.8,2,22.8,"So","7-Jun","Charlotte",0.812073
+"634","De'Vion Harmon","Oklahoma","B12",72.7,107.5,20,54,1.8,10.3,12.7,14.5,0,2,21.5,"So","2-Jun","Oregon",0.841028
+"635","Fah'Mir Ali","Radford","BSth",69.8,91.4,26.2,42.9,3.2,8.1,25.9,24.8,0,3.3,31.1,"Fr","10-May","College of Charleston",-0.615805
+"636","Myreon Jones","Penn St.","B10",75,111.4,24,48.8,2.7,7.9,14.6,9.3,0.5,2.4,27.3,"Jr","3-Jun","Florida",0.92094
+"637","Seybian Sims","North Dakota","Sum",61.6,104.5,13.5,54.8,3.7,17.3,7,17.1,2.8,1.4,31.7,"Jr","7-Jun","Northern Kentucky",0.0752822
+"638","Dontavius King","College of Charleston","CAA",27.8,86,28.4,43.8,7.6,23.6,4.7,18.2,2,1.6,36.1,"Fr","7-Jun","North Carolina Central",-1.9822
+"639","Elijah Ifejeh","Southeastern Louisiana","Slnd",35.9,96.2,16,48.6,11.3,17.3,3.9,22.9,3.8,1.2,71.4,"Sr","9-Jun","Prairie View A&M",-1.87723
+"640","Yusuf Jihad","Oakland","Horz",7.3,82,18.8,46,8.4,10.3,4.3,26.7,2.5,0,16,"Fr","8-Jun","Eastern Michigan",-3.01025
+"641","Kane Milling","Nevada","MWC",56.2,96.5,12.2,49.5,1.7,8.8,7.8,19,0.5,1.2,34.7,"So","4-Jun","UC Davis",0.237388
+"642","Lysander Rehnstrom","George Mason","A10",0.3,0,32.2,0,0,0,0,59.7,0,0,0,"Fr","4-Jun","Navy",-13.8266
+"643","Randy Miller Jr.","Indiana St.","MVC",51.1,84.1,19.3,39.5,0.7,10.1,7.1,18.5,0,1.6,36.1,"Sr","2-Jun","North Carolina Central",-0.432993
+"644","D'Shawn Schwartz","Colorado","P12",65.5,103.1,18.6,50.6,4.5,13.1,8.5,17.5,0.5,1.1,21.8,"Sr","7-Jun","George Mason",1.08172
+"645","K.J. Davis","Samford","SC",6,85.5,15.7,42.3,2.5,26.3,8.9,16.2,6.1,1.3,0,"Jr","6-Jun","Bethune Cookman",1.33075
+"646","Jay Jay Chandler","Texas A&M","SEC",49.4,92.1,23.4,42.8,2.7,12.2,11.2,17.5,0,1.9,18.1,"Sr","4-Jun","South Alabama",-0.229155
+"647","Dru Kuxhausen","McNeese St.","Slnd",74.6,104.6,16.2,55.6,0.7,6.3,5.9,16,0,1.7,23.2,"Sr","Jun-00","Northern Colorado",-3.13624
+"648","Sam Freeman","Minnesota","B10",10.6,88.1,11.2,50,8.1,15.2,3,32.3,4.8,0.5,57.1,"So","10-Jun","Pacific",1.58808
+"649","Davonte Gaines","Tennessee","SEC",8.1,78.3,12.9,22.2,3.9,14.3,3.7,15.4,5.3,4,222.2,"So","7-Jun","George Mason",4.61921
+"650","Michael Carter III","Long Beach St.","BW",56.5,101.4,23.7,53.6,2.8,9.3,14.7,20.6,0.5,2.2,66.7,"Jr","5-Jun","Portland St.",-0.951284
+"651","Jalen Jackson","North Texas","CUSA",8.3,85,17.1,35,1.5,9.1,19.8,16.1,0,2,35,"So","11-May","Texas A&M Corpus Chris",0.262167
+"652","Diante Wood","Jacksonville","ASun",12.7,90.1,30.5,35.2,5.2,10.6,12.1,13.7,1,1.6,70.5,"So","4-Jun","Tennessee Tech",-2.74333
+"653","KeyShawn Feazell","McNeese St.","Slnd",72.2,104.7,23.2,54.4,9.7,23.2,16.1,23.2,4.3,1.2,37.1,"Sr","8-Jun","Creighton",-1.1173
+"654","TJ Moss","South Carolina","SEC",39.4,84.7,16.9,41.4,1.5,5.8,21.9,29.4,0.3,2.9,17.3,"So","4-Jun","McNeese St.",0.158896
+"655","James Hampshire","Pacific","WCC",15,103.8,11.5,66.7,4.5,10.1,0,24.6,7.2,0,46.7,"Sr","1-Jul","UNLV",1.23255
+"656","Joseph Bamisile","Virginia Tech","ACC",13,91.7,23.7,41.3,5.3,14.7,7.2,13.1,1,1,17.4,"Fr","4-Jun","George Washington",-2.0235
+"657","Grant Coleman","Milwaukee","Horz",40.3,96.5,15.1,50,3,14.6,4.4,19.4,2.2,0.9,36.3,"Fr","7-Jun","Bryant",-1.21042
+"658","Taryn Todd","TCU","B12",43.7,89.6,16.9,50,1.8,8,14.8,26.1,1.1,1.8,22.1,"Fr","5-Jun","New Mexico",0.325039
+"659","Daivon Stephens","Coastal Carolina","SB",7.5,68.6,19.7,35.4,3.2,13.5,2.7,25.2,1.8,1.7,8.3,"Jr","7-Jun","Jacksonville",-1.7925
+"660","Rashad Smith","Grand Canyon","WAC",3.9,112.6,19.1,50,3.7,13.3,21.6,18.8,0,3.6,50,"Jr","5-Jun","Idaho",2.93932
+"661","Cam'Ron Fletcher","Kentucky","SEC",5.8,99.6,14.2,57.7,5.6,21.9,10.4,20.5,0,4.8,15.4,"Fr","6-Jun","Florida St.",6.28749
+"662","Marcus Williams","Wyoming","MWC",76.9,101.6,27.4,51.6,0.7,8.9,28.7,20.1,0.8,2.5,39.9,"Fr","2-Jun","Texas A&M",-1.68998
+"663","Donovan Ivory","Boise St.","MWC",0.6,58.1,9.1,0,0,0,25.4,0,0,9.5,0,"So","6-Jun","Green Bay",6.21825
+"664","Jake Wolfe","Lipscomb","ASun",64.5,94.5,15.4,46.2,1.8,11.1,8.3,19.4,0.6,1,45.8,"So","5-Jun","Morehead St.",-1.89976
+"665","Filip Rebraca","North Dakota","Sum",78.4,100.4,28.1,52.8,6.7,22.2,9.9,15.2,2.1,1.1,35.5,"Jr","9-Jun","Iowa",-1.51098
+"666","Wendell Green Jr.","Eastern Kentucky","OVC",77.2,100.8,29,45.7,2.1,10.7,30.7,17,0.4,2.9,30.4,"Fr","11-May","Auburn",-0.384912
+"667","Joey Brunk","Indiana","B10",48.7,101.1,19.4,52.2,9.8,20.4,6.7,15.7,2,0.6,30.1,"Jr","11-Jun","Ohio St.",1.0871
+"668","Lynn Kidd","Clemson","ACC",3.4,103.2,17.9,33.3,15,11.1,5.8,21,7.8,0,66.7,"Fr","10-Jun","Virginia Tech",3.08535
+"669","Tyson Walker","Northeastern","CAA",86.5,104.1,31.4,51.8,1.9,7.9,33.8,17.8,0.2,4.1,33.3,"So","Jun-00","Michigan St.",1.90123
+"670","Andrew Platek","North Carolina","ACC",32.8,104.1,15,48.9,5.7,7.7,11.1,23.3,1.4,1.9,19.1,"Sr","4-Jun","Siena",1.90217
+"671","Rasheem Dunn","St. John's","BE",58.3,92.3,20.6,42.5,1.2,10,23.1,21.4,0.2,2.6,36.4,"Sr","2-Jun","Robert Morris",0.556422
+"672","Musa Jallow","Ohio St.","B10",32.3,101.7,11.7,51.6,4.5,11.2,7.3,20,3,1.5,37.7,"Jr","5-Jun","Charlotte",2.03405
+"673","Mouhamadou Gueye","Stony Brook","AE",60.1,91,23.6,45.4,6.9,22.8,15.1,24.2,13,1.4,40.1,"Sr","9-Jun","Pittsburgh",3.5276
+"674","RJ Glasper","Oral Roberts","Sum",45,99.7,19.1,48.1,1.9,9.6,11.5,18.5,0,1.4,25.9,"Sr","Jun-00","Incarnate Word",-1.94048
+"675","Mack Smith","Eastern Illinois","OVC",52,110,16.4,52.4,2.1,10.1,11.9,11.6,1.2,1.8,16.3,"Sr","2-Jun","Western Michigan",-1.12633
+"676","Tyrone Lyons","North Carolina A&T","MEAC",65.2,89.7,19.9,41.4,5.1,16.9,6.3,18.2,2.8,2.2,66.4,"Jr","7-Jun","Southern",-0.616295
+"677","Patrick Good","East Tennessee St.","SC",57.1,112.7,16,50.8,1.9,9.7,11.9,13,0,2.9,20.4,"Jr","Jun-00","Winthrop",1.91173
+"678","Elijah Joiner","Tulsa","Amer",78,108.6,21,52.1,0.9,14.5,27.5,19.5,0.6,1.9,53.6,"Sr","3-Jun","Iona",1.53394
+"679","Tibet Gorener","Arizona","P12",2.9,79.1,18.2,50,0,23,6.2,32.2,0,0,0,"Fr","9-Jun","San Jose St.",-1.8938
+"680","Courtney Brown Jr.","Milwaukee","Horz",41.1,104.2,12.9,48.8,5,15.3,2.8,10.6,0.3,1.1,23.8,"So","7-Jun","St. Thomas",-1.6472
+"681","Rashun Williams","South Florida","Amer",27.1,95.2,14.2,41.2,7.9,9.9,3.5,14.4,1.1,1,15.8,"Jr","6-Jun","Radford",-0.925571
+"682","Cooper Kaifes","Loyola Chicago","MVC",16.8,75.1,18.8,39.2,0.7,13.9,13.5,25.5,0,1.3,7.8,"So","3-Jun","Samford",-0.0600503
+"683","Royce Hamm Jr.","Texas","B12",17.7,106.8,12.5,54.2,10.9,20.3,2.8,14.2,4.3,0.9,27.8,"Sr","9-Jun","UNLV",2.59432
+"684","Sloan Seymour","George Washington","A10",21.8,111.8,16.2,51.2,0.8,5.2,8.1,4.8,0.7,0.4,27.9,"Jr","9-Jun","New Hampshire",-2.40129
+"685","Terrell Ard Jr.","UAB","CUSA",0.7,200,5,100,0,29.4,0,0,0,0,0,"Fr","7-Jun","Presbyterian",1.62937
+"686","PJ Fuller","TCU","B12",56.7,85.1,17,46,1.8,7.9,12.1,28.8,1.1,1.8,31.7,"So","4-Jun","Washington",0.167899
+"687","Sincere Carry","Duquesne","A10",21,84.1,24,43.4,5,12.6,27,29,0,3.1,60.5,"Jr","1-Jun","Kent St.",0.183628
+"688","Eric Parrish","UTSA","CUSA",51.5,97.4,18,49.5,6.5,14.6,14.9,24.5,2.5,2.5,28.3,"Jr","6-Jun","Grambling St.",0.620039
+"689","Tai Bibbs","Columbia","Ivy",66.3,87.6,14.9,40.9,1.5,13.2,5.3,11.9,0.7,2,35.2,"Jr","3-Jun","Howard",-0.28834
+"690","Greg Parham","VMI","SC",88.8,112.4,26.1,55.5,2.6,9.5,23.1,14.1,0.3,1.8,23.4,"Sr","4-Jun","South Alabama",-1.46564
+"691","Marco Anthony","Utah St.","MWC",80,99.6,19.2,45.7,5.3,11.6,17.9,19.1,1.6,1.6,37,"Jr","5-Jun","Utah",2.15714
+"692","Diante Smith","TCU","B12",2.7,65.8,24.1,42.9,16.9,8.2,7.3,43.8,0,0,0,"So","7-Jun","South Alabama",-5.05671
+"693","Kwane Marble II","Wyoming","MWC",52.3,107.1,22.4,51,6.9,14,10.3,16.9,0.2,2.5,63.9,"So","6-Jun","Loyola Marymount",-0.974112
+"694","K.J. Walton","Ball St.","MAC",63,108.6,26.5,54.3,9.1,12.6,8.9,17.2,0.7,2.4,39.3,"Sr","3-Jun","Akron",-0.335789
+"695","James Akinjo","Arizona","P12",86.5,110.3,24.5,46.2,1,6.5,31.1,15.8,0,2.4,39,"Jr","1-Jun","Baylor",0.740374
+"696","Olivier-Maxence Prosper","Clemson","ACC",22.1,94.4,18.3,37.5,10.4,13.2,5.7,12.7,1.8,1.2,42.3,"Fr","8-Jun","Marquette",0.66482
+"697","Wilfried Likayi","New Mexico St.","WAC",30.1,119.2,17,54.8,6.8,12.7,5.4,7,1.7,0.9,19,"Jr","9-Jun","Coastal Carolina",-0.518486
+"698","Matt Bradley","California","P12",57.4,103.7,31.2,52.7,3.6,15.5,14.4,18.1,0.5,0.7,40.7,"Jr","4-Jun","San Diego St.",-0.0996034
+"699","Darrious Agnew","Southeast Missouri St.","OVC",17.9,100.7,25.3,52.9,11.9,17.9,9,15,2.9,1.5,58.8,"Sr","8-Jun","Alcorn St.",-1.48091
+"700","Ronnie DeGray III","Massachusetts","A10",66.8,108.3,15.7,59.6,5.3,14.3,9.9,18.8,1,0.7,33,"Fr","7-Jun","Missouri",-0.249797
+"701","Chad Baker","Duquesne","A10",50.8,117.5,17.1,55.7,3,10.1,9.6,12.1,4.2,2.4,30.5,"Fr","7-Jun","San Diego St.",2.44373
+"702","Brison Gresham","Houston","Amer",43,107.3,10.4,56.3,8.5,11,3.3,20.9,10.9,1.8,38,"Sr","8-Jun","Texas Southern",4.99355
+"703","DJ Gordon","Penn St.","B10",2.1,37.5,27.5,11.1,10.1,17.9,0,10.1,0,0,55.6,"Fr","5-Jun","Fordham",-6.39784
+"704","David Collins","South Florida","Amer",76.2,88.7,26.2,45.4,1.5,12,25.2,23.6,1.1,2.4,51.4,"Sr","4-Jun","Clemson",0.463912
+"705","Jerome Desrosiers","Princeton","Ivy",31.8,123.7,17.4,60.7,3.8,21.2,10.4,9.3,0.9,1.3,16.3,"Jr","7-Jun","Hawaii",-0.481501
+"706","Tyree Ihenacho","North Dakota","Sum",70,90.3,21.1,46.1,5.3,16,26.3,24.9,0.7,2.8,33.7,"Fr","4-Jun","James Madison",-0.0481747
+"707","Jalen Warren","Florida Gulf Coast","ASun",61.9,98.5,23.7,51.7,1.3,6.7,16.3,20.2,1.1,1.4,26.5,"Sr","3-Jun","Illinois Chicago",-1.40723
+"708","Charles Falden","Winthrop","BSth",51.9,111.7,20.6,55.9,5,12.2,5.1,17.5,0.4,2.1,28.9,"Sr","3-Jun","James Madison",0.514565
+"709","Jamison Overton","Utah Valley","WAC",65.1,98.1,25.9,49,4.7,10.8,14.2,17.2,2.9,2.2,56.1,"Sr","6-Jun","Weber St.",0.365782
+"710","Charles Manning Jr.","LSU","SEC",9.4,95.5,14.5,41.4,6.1,11.2,7.6,14,1,1.5,3.4,"Sr","5-Jun","South Alabama",-0.34143
+"711","Josh LeBlanc Sr.","LSU","SEC",35.9,130.7,10,66.7,11.8,16,5.3,11.9,4.9,3.3,42.6,"Jr","7-Jun","UAB",3.30541
+"712","Justin Johnson","Southern Miss","CUSA",42.9,96.4,18.2,45.2,3.3,9.8,13.4,14.6,2.6,1.5,32.4,"Jr","6-Jun","UT Rio Grande Valley",0.333484
+"713","Matt Cross","Miami FL","ACC",34.1,105.5,14.5,57.7,4.6,10.7,11.3,22.9,2.2,1.7,10.3,"Fr","7-Jun","Louisville",0.746508
+"714","Yuat Alok","Coppin St.","MEAC",26,88.8,23.2,62,7.4,19.7,8.4,31.1,4.3,0.7,25.3,"Sr","11-Jun","New Mexico St.",-0.530117
+"715","Mark Smith","Missouri","SEC",73.2,97.7,17.5,46.5,2.1,10.1,6.4,16,0.5,1.8,32.6,"Sr","5-Jun","Kansas St.",0.937778
+"716","Aaron Estrada","Oregon","P12",10,94.2,15.1,48.1,0,18.6,10.5,20.8,0,1.6,15.4,"So","4-Jun","Hofstra",0.704736
+"717","Ray Salnave","DePaul","BE",57.8,82.3,18.5,37.5,2.6,11.2,10.5,22.8,0.3,2.3,21.1,"Sr","3-Jun","UMBC",1.31693
+"718","Jelly Walker","Tulane","Amer",83.7,97.8,24.3,45.7,1.4,5.2,32.9,16.8,0.2,3,25.9,"Jr","11-May","UAB",0.461944
+"719","Jakolby Long","Southern Illinois","MVC",6.2,89.3,14.9,50,2,12,9.4,32.7,1.9,2.9,75,"Sr","5-Jun","Bethune Cookman",0.663537
+"720","Brandon Stone","La Salle","A10",2.9,31.8,18.1,33.3,4.1,25.9,6,68.5,16.3,0,0,"So","11-Jun","Robert Morris",1.78906
+"721","Dante Treacy","Robert Morris","Horz",76,83.9,17.2,37.4,1.8,8.4,24.9,25.6,0.8,1.8,23.6,"Jr","Jun-00","UNC Greensboro",-2.13129
+"722","Hayden Koval","UNC Greensboro","SC",48.9,126,14.8,54.8,5.6,15.5,4.5,6.5,11.8,0.9,31.6,"Sr","1-Jul","Cincinnati",3.19814
+"723","Walt McGrory","Wisconsin","B10",0.1,0,0,0,0,0,0,0,0,0,0,"Sr","3-Jun","South Dakota",1.83451
+"724","Holland Woods","Arizona St.","P12",65,107.1,13.3,48.2,1,8.8,12.6,11.4,0,2.1,26.2,"Sr","1-Jun","Grand Canyon",1.14303
+"725","Moussa Cisse","Memphis","Amer",46.4,90.9,20.9,55.2,13.4,23.7,5,22.4,10.5,0.9,51,"Fr","10-Jun","Oklahoma St.",2.99154
+"726","Shawndarius Cowart","Hofstra","CAA",3.4,65.5,16.3,25,0,11.1,21.1,45.8,0,5.6,50,"Jr","2-Jun","Grambling St.",2.82029
+"727","Elyjah Williams","Fairleigh Dickinson","NEC",72,105.9,22.4,60.5,6,20,18.8,25,5,2.1,24.3,"Sr","7-Jun","Northwestern",-0.44317
+"728","Demond Robinson","Murray St.","OVC",54.4,102.6,15.6,60.2,7.6,14.4,8,27.5,4.7,1.4,22.3,"So","8-Jun","Kennesaw St.",0.825099
+"729","Hakim Byrd","Marist","MAAC",58.4,98.7,21.4,46.9,1.5,8.2,18.1,18,0,2.2,34,"Fr","10-May","UMBC",-0.229415
+"730","Charlie Moore","DePaul","BE",67.1,96.3,26.6,47.4,2.5,9.6,28.2,21.9,0,1.9,20.1,"Sr","11-May","Miami FL",-0.160305
+"731","Pavlo Dziuba","Arizona St.","P12",3.3,50.1,7.7,100,0,7.2,0,65.5,3.3,0,200,"Fr","8-Jun","Maryland",-0.923733
+"732","Micah Peavy","Texas Tech","B12",50.3,99,19.2,45.9,11.2,7,13.5,17.5,1.3,1.7,23.9,"Fr","7-Jun","TCU",0.979131
+"733","Jannson Williams","Marshall","CUSA",59.9,106,17.4,53.4,3.3,16.1,2.5,8.9,8.7,1.5,14.6,"Sr","9-Jun","Eastern Kentucky",1.11685
+"734","Tavian Dunn-Martin","Duquesne","A10",75.4,92.8,21.6,43.9,0.8,8.1,23.7,21.8,0,1.9,24.4,"Sr","8-May","Florida Gulf Coast",-0.510929
+"735","Marcus Tsohonis","Washington","P12",44.1,101.5,27,51.5,4.2,8.5,13.4,14.6,0.2,1,24.1,"So","3-Jun","VCU",-1.87868
+"736","Savion Flagg","Texas A&M","SEC",61.7,104.3,20.7,48.1,8.6,12.3,20,18.4,1.9,1.6,24.2,"Sr","7-Jun","Sam Houston St.",0.397897
+"737","Trent Buttrick","Penn St.","B10",33,97.3,14.3,51.5,7.6,19.5,7.1,26.8,3.2,2.2,16.7,"Sr","8-Jun","Massachusetts",2.06191
+"738","Christian Gray","Fresno St.","MWC",26.4,109.7,19.9,59.6,10.6,14.5,6,19.4,0.5,0.3,76.9,"Sr","6-Jun","Cal St. Northridge",-1.49808
+"739","Christian Ings","Rider","MAAC",60,87.1,21.9,42,2.8,13.8,18.3,24.1,0.4,2,60.6,"So","2-Jun","Norfolk St.",-1.71905
+"740","Justin McKoy","Virginia","ACC",21.3,107.7,20.8,50.9,11.1,26.1,9.4,14.8,0,1.2,17.2,"So","8-Jun","North Carolina",0.0796744
+"741","Elijah Hardy","Portland St.","BSky",38.6,82.1,28.6,38.2,4.4,15.7,16.4,20.7,0.4,3.9,22,"Jr","2-Jun","Cal St. Northridge",0.680548
+"742","Jermaine Marshall","Akron","MAC",12.1,99.7,18.5,30.4,8.7,33,8.1,15,1,2.2,82.6,"So","6-Jun","Samford",2.23247
+"743","Joey Reilly","Holy Cross","Pat",0.9,0,0,0,0,19.8,25.4,0,0,0,0,"So","Jun-00","Sacred Heart",-2.17788
+"744","Ques Glover","Florida","SEC",16.7,81.4,21.3,42.4,2.2,8.5,14,31.9,0,3.7,23.9,"So","11-May","Samford",1.7149
+"745","Oumar Ballo","Gonzaga","WCC",11.7,100.5,21.5,62.9,13,16.1,2.9,26.6,3.9,1.8,82.9,"Fr","Jul-00","Arizona",1.54428
+"746","DeAngelo Epps","College of Charleston","CAA",54.1,92.3,15.9,52,2.6,11.1,4.7,25.1,2,1.8,25,"So","5-Jun","Hampton",-0.898537
+"747","Jayden Gardner","East Carolina","Amer",88.1,99.8,26.7,46.3,6.5,21.5,10.2,14.3,0.6,0.9,51.4,"Jr","7-Jun","Virginia",-0.542372
+"748","Carter Collins","Davidson","A10",64.6,117.2,22.2,55.6,2.5,14.8,20.9,13.5,1.2,1.6,31,"Sr","3-Jun","Murray St.",0.436763
+"749","Christian Bishop","Creighton","BE",58,115,21.8,68.4,7.8,21.7,10,18.9,4.8,1.7,50.7,"Jr","7-Jun","Texas",3.23598
+"750","Tim Ceaser","Coastal Carolina","SB",30,78.9,18.2,38.7,7.3,14.7,6.8,29.8,5.1,0.6,19.7,"So","9-Jun","Utah Valley",-0.863798
+"751","Kaiden Rice","The Citadel","SC",88.3,104.5,22.1,51.1,2,11.8,5.8,9.5,0.1,0.6,16.1,"Sr","7-Jun","Georgetown",-3.67741
+"752","De'Monte Buckingham","Cal St. Bakersfield","BW",47.5,103.7,21,43.7,6.2,20.6,13.3,15.3,0.6,1.6,21.5,"Sr","4-Jun","UNC Greensboro",0.0290077
+"753","Nate Jenkins","Iowa St.","B12",4.9,76.1,12.7,28.6,7.2,7.4,7.4,28.5,0,4.8,28.6,"So","2-Jun","Green Bay",0.629006
+"754","LaDavius Draine","Southern Miss","CUSA",71.1,82.8,19.4,44.3,2,15.2,14.1,23.3,0,1.9,15.8,"Sr","4-Jun","Tulsa",-0.151755
+"755","Marvin Johnson","Eastern Illinois","OVC",72.2,92.9,32.2,49.3,4.6,15.2,34.3,26,2.2,3.6,21.6,"Sr","6-Jun","Oklahoma",-0.150402
+"756","Serrel Smith","East Tennessee St.","SC",59.1,94.2,17.8,39.7,2.1,9.8,9.2,16.5,0.2,2,35.2,"Jr","4-Jun","South Florida",-0.0287392
+"757","Ody Oguama","Wake Forest","ACC",49.6,103,20.7,47.3,12.1,18,3.8,15.1,1.9,1,57.3,"So","9-Jun","Cincinnati",-0.818643
+"758","Jaelen House","Arizona St.","P12",38.9,91.6,17,50,1.1,11.4,14.4,21.4,0,4.8,12.6,"So","1-Jun","New Mexico",3.18595
+"759","Au'Diese Toney","Pittsburgh","ACC",63.6,106.6,21.7,51.8,7.2,11.9,13.4,18.2,0.4,2.1,52.4,"Jr","6-Jun","Arkansas",0.396144
+"760","Isiah Dasher","Portland","WCC",49.5,83,22.4,41.7,2.2,12.7,13.7,17.1,2.4,2.6,30,"Jr","3-Jun","Saint Peter's",-1.06489
+"761","Bahaide Haidara","George Mason","A10",21.3,99.6,19.4,54.8,17.3,19.3,13.7,21,2.4,3.8,38.1,"So","6-Jun","St. Francis NY",1.30953
+"762","Jamal Cain","Marquette","BE",74.1,107.4,16.4,51.8,5.9,17.4,6.7,13.2,0.9,1.7,16.1,"Sr","7-Jun","Oakland",1.64298
+"763","Riley Voss","Cornell","Ivy",34.8,85.3,14.4,43.8,2.1,13.9,15.6,21.7,1.7,2.8,4.2,"Jr","6-Jun","Wright St.",0.0999771
+"764","Alphonso Anderson","Utah St.","MWC",40.3,102.6,21.1,46.8,6.5,12.1,7.4,13.3,0.3,1.4,24.1,"Sr","6-Jun","Pacific",0.488955
+"765","Xavier Johnson","Pittsburgh","ACC",58.5,105.8,28.9,49.2,1.9,11.8,42.2,23,0.5,2.6,47.3,"Jr","3-Jun","Indiana",0.912581
+"766","Anderson Kopp","Lamar","Slnd",68.6,91.3,22.2,40.2,3.3,14.3,9.4,12.6,1.2,2,24.1,"So","5-Jun","UMKC",-1.56023
+"767","Rashad Williams","Oakland","Horz",64.2,96.3,23.2,47.5,0.4,5.8,6.7,12.9,0,1.6,13,"Jr","2-Jun","Saint Louis",-3.59682
+"768","Jalen Coleman-Lands","Iowa St.","B12",78.5,103.1,21.5,54,3.6,10.2,7.8,16.1,0.3,1.4,13,"Sr","4-Jun","Kansas",-1.019
+"769","Yor Anei","SMU","Amer",27.9,112,17.7,59.8,9.2,5.1,3,20,14.4,1.5,52.2,"Jr","10-Jun","DePaul",4.30364
+"770","Jaemyn Brakefield","Duke","ACC",28.5,99.9,15.9,48.7,6.2,17.7,6,14.5,3,1.9,16,"Fr","8-Jun","Mississippi",0.760708
+"771","Zach Cooks","NJIT","AE",93.1,96.5,25.3,46.6,2.1,14.1,9.5,13.3,0.2,3.4,30.1,"Sr","10-May","Hofstra",-0.0920615
+"772","David Walker","South Alabama","SB",5.2,105.1,26.1,52.4,2.2,4.2,5,4.4,0,1.2,57.1,"Jr","3-Jun","Cal St. Bakersfield",-5.43215
+"773","Kamari Williams","Boston College","ACC",23.1,88.1,13.3,46.3,4.7,6.5,3.9,20.3,0.6,0.9,10,"So","7-Jun","Miami OH",-2.13851
+"774","Silvio De Sousa","Kansas","B12",11.6,88.3,23,48.4,17.5,21.8,2.5,29.1,12.5,0.8,77.4,"Jr","9-Jun","Chattanooga",2.7576
+"775","Charlie Daniels","Stephen F. Austin","Slnd",36.3,95.7,19.1,60.7,14.6,14.6,5.4,27.2,3.5,1.7,50.8,"Sr","9-Jun","Minnesota",-0.855336
+"776","Mattia Acunzo","Toledo","MAC",37,122.6,18.1,59.7,7.7,17.4,9.9,14.7,0.9,0.9,41.5,"Fr","8-Jun","Robert Morris",-0.585426
+"777","Darweshi Hunter","Weber St.","BSky",2.9,55.8,20.4,21.4,5.9,5.1,13.3,24,0,2.4,0,"So","5-Jun","Northern Illinois",-4.23582
+"778","Ahmir Langlais","Western Carolina","SC",21.8,89,18.5,48.2,8.6,22.7,4.3,17.5,1.5,0.5,44.6,"Fr","8-Jun","USC Upstate",-1.88654
+"779","Alfred Hollins","Oregon St.","P12",1.3,67.5,23.2,50,7,7,11.1,30.9,0,10.7,133.3,"Sr","6-Jun","UTEP",8.23351
+"780","Kenny Cooper","Western Kentucky","CUSA",31.3,82.2,14.8,34.7,1.3,8.6,19.8,28.9,0.9,2.4,50.8,"Sr","Jun-00","Tennessee St.",1.05901
+"781","Mike Nuga","Kent St.","MAC",45,125,20.6,61.5,3.1,15.4,11,11.7,0,2,18.6,"Sr","2-Jun","UNLV",0.550389
+"782","Myles Douglas","Saint Joseph's","A10",12.8,94.5,18.7,50,2,11.7,13.5,13.9,0,0.5,28.1,"Jr","7-Jun","Morgan St.",-1.52321
+"783","Reed Farley","Harvard","Ivy",8,69.3,14.8,25,9.7,6,7.2,16.1,0,2.4,0,"Fr","4-Jun","UC San Diego",0.316097
+"784","Aquan Smart","Maryland","B10",11.7,69.4,17.7,32.1,1.8,12.2,10.5,22.3,2.6,0,50,"Fr","3-Jun","FIU",-0.995545
+"785","Michael Cubbage","Marist","MAAC",11.6,101.5,22.5,51.5,2.5,21,5.1,13.4,0,3.6,35.3,"Sr","4-Jun","St. Francis NY",2.73674
+"786","Logan Morrissey","Air Force","MWC",0.6,0,0,0,0,0,0,0,0,0,0,"Fr","4-Jun","UNC Wilmington",-6.21769
+"787","Broc Finstuen","Pacific","WCC",70.2,116.3,19,52.5,9.7,14.8,6.9,8.9,1.8,1.2,38.6,"Sr","4-Jun","Cleveland St.",0.33758
+"788","Caleb Stone-Carrawell","Charlotte","CUSA",13.1,65.5,18.9,31.5,3.1,16,5,25.7,1.9,0,48.1,"Fr","7-Jun","Austin Peay",-2.85577
+"789","Tommy Bruner","USC Upstate","BSth",76.8,92.8,27.5,47.4,2.1,8.5,29.4,23.2,0,1.8,23,"So","1-Jun","Jacksonville",-3.3188
+"790","Ishmael El-Amin","Ball St.","MAC",82.9,101.4,24.8,48.3,0.6,8.8,17.5,16,0.7,2.2,20.7,"Sr","3-Jun","Rhode Island",-0.00893505
+"791","Grayson Carter","UT Arlington","SB",23.4,94.2,14.5,45.2,3.7,7.3,4.4,18.1,1.9,0.5,15.4,"So","10-Jun","Texas Southern",-2.29175
+"792","R.J. Eytle-Rock","UMBC","AE",75,104.6,25.8,53.1,2.8,15.3,18.9,21.4,0.2,0.9,52.1,"Jr","3-Jun","Utah St.",-0.215285
+"793","Hameir Wright","Washington","P12",58.8,88.8,16.6,47.9,4.3,15.5,6.2,22.3,4.3,2.1,24.1,"Sr","9-Jun","North Texas",2.17764
+"794","Khadim Sy","Mississippi","SEC",13.8,97.3,16,47.7,6.7,12.3,5.1,19.1,3.1,2.3,4.7,"Sr","10-Jun","Wake Forest",1.77913
+"795","Ismael Massoud","Wake Forest","ACC",54.3,90.8,23,44.8,4,15.6,5.4,16.9,0.3,1,25,"So","8-Jun","Kansas St.",-1.62751
+"796","Seth Pinkney","Quinnipiac","MAAC",56.9,135.1,12.6,79.4,6.6,15.5,4.5,13,10,1.3,92.5,"So","1-Jul","FIU",3.90015
+"797","Mikey Howell","UC San Diego","BW",73.6,95.6,19.1,46.8,1.8,8.9,35.2,27.7,0.5,2.9,30.8,"Sr","3-Jun","Bradley",-0.700594
+"798","Austin Butler","Holy Cross","Pat",82.9,105.9,24,56.6,6.6,23.8,7.5,16.5,0.8,2.8,28.4,"Sr","5-Jun","Charlotte",-0.809844
+"799","Isaiah Poor Bear-Chandler","Wichita St.","Amer",23.7,94.7,13.3,40.5,9.3,10,3.1,13.7,3.4,0.3,35.1,"Jr","9-Jun","Nebraska Omaha",0.122374
+"800","Antavion Collum","Mississippi","SEC",2.8,86.6,24.1,56.3,14.4,14.9,25.1,30.6,0,3.7,37.5,"So","7-Jun","Cal St. Bakersfield",3.26004
+"801","Both Gach","Minnesota","B10",56.1,95.2,17.6,46.4,2.1,15.5,17.1,22.3,0.3,1.5,31.1,"Jr","6-Jun","Utah",0.779851
+"802","Zion Williams","UMKC","Sum",80.6,90.9,18,48.5,5.6,17.1,14.8,25.2,0.8,2.8,27.7,"Sr","4-Jun","Gardner Webb",0.965462
+"803","Cameron Wilbon","Robert Morris","Horz",43.2,97,17.5,47.5,7.4,14.5,4,19.5,0.7,1.1,37.5,"Jr","5-Jun","Sacramento St.",-2.651
+"804","Tre' Williams","Minnesota","B10",42.8,89.1,18,48.3,2.8,11.7,11.6,17.4,0.8,1.9,21.2,"So","5-Jun","Oregon St.",0.930421
+"805","Danilo Djuricic","Harvard","Ivy",45.4,124.6,15.7,54.2,9.5,17.3,7.8,9.3,2.1,0.6,25,"Jr","8-Jun","Santa Clara",-0.21307
+"806","Jalyn McCreary","South Carolina","SEC",26.8,95.8,20.3,48.7,9.7,11.2,4.4,18.6,8.8,1.9,28.9,"So","8-Jun","South Florida",2.1518
+"807","Josh O'Garro","Oklahoma","B12",0.4,0,14.5,0,0,0,0,100,0,0,0,"Fr","5-Jun","San Jose St.",-8.17682
+"808","Alondes Williams","Oklahoma","B12",40.5,106.1,19.8,49.6,4.9,12.2,14.1,15.2,1.5,2.2,23,"Sr","5-Jun","Wake Forest",1.41371
+"809","D.J. Jeffries","Memphis","Amer",64.1,95.6,21.6,49.6,5.7,16,14.7,21.4,4,2,30.8,"So","7-Jun","Mississippi St.",3.08195
+"810","Andrew Junkin","Mississippi St.","SEC",0.9,109.3,10.8,100,0,0,0,45.4,9.7,0,0,"So","11-Jun","Elon",5.02088
+"811","Marcus Weathers","Duquesne","A10",74,103.3,27.6,51.2,9.8,18.3,12,16.6,2.6,1.8,49.5,"Sr","5-Jun","SMU",0.447545
+"812","Jarvis Omersa","Minnesota","B10",5.9,114.1,10.7,57.1,5.8,19.3,16.1,22.9,4.3,7.4,85.7,"Jr","6-Jun","St. Thomas",9.05641
+"813","Elijah Olaniyi","Miami FL","ACC",63.1,95.2,18.5,47.6,4.3,13.8,5.8,17.6,1.5,1.6,28.9,"Sr","5-Jun","Stony Brook",-0.0762841
+"814","Tari Eason","Cincinnati","Amer",49,90.8,24.4,49.3,12.6,21.8,14.3,25.4,7,3.4,32.2,"Fr","8-Jun","LSU",2.68998
+"815","Zion Tordoff","Marist","MAAC",25,99.4,19.4,51.7,12,15.1,13.2,22.6,0.9,0.8,68.3,"Jr","8-Jun","Houston Baptist",-1.52761
+"816","Oscar Lopez Jr.","DePaul","BE",9.6,104.8,24,63.5,5.8,16.1,23.2,25.6,4.7,0.8,15.4,"So","4-Jun","Central Michigan",0.492121
+"817","Dimon Carrigan","FIU","CUSA",42.8,112.7,18.5,60.7,15,22.2,7.5,18.2,12.6,2.6,52.8,"Sr","9-Jun","West Virginia",2.83464
+"818","Kellon Taylor","Albany","AE",79.7,94.1,19.8,50.8,5.1,16.8,12.7,21.7,0.7,1.2,44.4,"Sr","6-Jun","McNeese St.",-0.147157
+"819","Keondre Montgomery","Mississippi St.","SEC",1.5,84.4,34,32.1,6,5.5,34.7,8.7,0,3,0,"Fr","7-Jun","Alcorn St.",-2.71574
+"820","Jalen Dupree","Samford","SC",25.3,92.6,27.8,50.7,14.1,15.1,12,25.1,5.1,0.6,37.3,"Sr","8-Jun","Tennessee St.",-1.47074
+"821","Isaih Moore","St. John's","BE",39.3,120.6,22.2,59.3,10.8,20.4,9.3,12.5,4.2,1.5,31.7,"Jr","10-Jun","Southern Miss",0.460308
+"822","Braelen Bridges","Illinois Chicago","Horz",38.7,107.1,25.7,65.2,10.3,17.7,13.5,22.8,0.8,0.8,40.9,"Jr","10-Jun","Georgia",-0.124796
+"823","Tyler Brelsford","George Washington","A10",39.9,91.3,14.3,49,1.4,12.9,11.1,22.3,0.4,1.1,32.7,"Fr","4-Jun","Bryant",-1.43512
+"824","Kobe King","Wisconsin","B10",43.5,99.4,21.9,48.1,4.9,6.8,12.3,15.3,1.2,1.1,34.6,"So","4-Jun","Valparaiso",1.04321
+"825","Roscoe Eastmond","Denver","Sum",47.8,82.2,17.8,41.9,1.9,13.8,31,30.8,0.3,2.6,27,"So","9-May","Southeastern Louisiana",-1.87982
+"826","Jerome Hunter","Indiana","B10",43.9,96.9,17.2,52.6,3.3,14.7,6.6,15.4,0.7,1.1,19.9,"So","7-Jun","Xavier",0.765865
+"827","Nathan Scott","Northern Illinois","MAC",32.3,100.7,17.7,44.5,7.5,17.4,8.4,10.8,1.9,1.7,24.7,"Sr","8-Jun","Eastern Michigan",-1.93441
+"828","Tyrece Radford","Virginia Tech","ACC",64.8,125.1,18.1,57.4,7.4,15.1,13.2,10.3,1.5,1,43,"So","2-Jun","Texas A&M",1.62993
+"829","Jimmy Boeheim","Cornell","Ivy",63.3,100,30.7,48.2,4.7,17.7,15.7,12.4,1.3,1.4,29.5,"Jr","8-Jun","Syracuse",-2.75445
+"830","Jordan Rawls","Western Kentucky","CUSA",55,99.2,20.7,46,2.3,8.2,18,18.7,0,1.3,17.8,"So","1-Jun","Georgia St.",-0.758731
+"831","Damion Squire","UC Davis","BW",57.7,112.8,18.7,52.2,2.7,11.7,18.7,18.9,0.6,2.6,65.9,"Jr","Jun-00","Portland St.",0.935015
+"832","Joel Soriano","Fordham","A10",65,97.4,25.4,54.5,15.3,26.8,12.3,19.5,4.3,0.9,38.4,"So","11-Jun","St. John's",-0.20797
+"833","Mike Henn","Portland","WCC",63.3,96.8,15,53.5,2.5,13.5,10.7,20.8,0.7,0.8,25.3,"Sr","8-Jun","Denver",-2.32357
+"834","Taeshon Cherry","Arizona St.","P12",11.1,107.6,11.7,48.2,3.9,12.7,3.2,0,2.9,1.5,0,"Jr","8-Jun","Grand Canyon",0.595221
+"835","Xavier Green","Old Dominion","CUSA",84.5,80.8,15.5,39.1,2.3,10.8,12.3,24.8,1,1.4,18.8,"Sr","6-Jun","Maryland",-0.499795
+"836","Ejike Obinna","Vanderbilt","SEC",15.2,93.1,14.6,46.7,8.3,19.7,0,23.4,0,0.4,33.3,"Sr","10-Jun","Saint Joseph's",-1.64199
+"837","Rodney Chatman","Dayton","A10",39.3,84.5,20.3,48.1,0.7,8.3,22.9,30.1,0.6,3,39.5,"Sr","1-Jun","Vanderbilt",1.44846
+"838","Chris Shelton","Hampton","BSth",76.7,124.8,12.2,68.1,1.9,5.5,4.4,11.5,0.8,1.4,4,"So","4-Jun","Youngstown St.",-2.02618
+"839","Patrick Tape","Duke","ACC",4.6,79,22.1,38.5,15.3,13.2,7.4,23.2,4.7,6.4,30.8,"Sr","9-Jun","San Francisco",3.77289
+"840","Miles James","East Carolina","Amer",8.6,69.4,15.8,12.5,5.3,5.7,17.4,17.8,2.1,0,58.3,"Jr","6-Jun","Cal St. Northridge",-3.2648
+"841","Chase Paar","George Washington","A10",50.7,87.8,17.7,45.9,8.9,16.1,6.8,26.3,3.3,1.3,35.6,"So","9-Jun","Towson",-0.802505
+"842","Brady Manek","Oklahoma","B12",57.3,109.7,20.8,52.5,5.6,16.9,6.7,9.7,3.3,1.2,12.6,"Sr","9-Jun","North Carolina",0.367446
+"843","Mamoudou Diarra","Cincinnati","Amer",14.2,86.4,18.2,48.4,10.9,17,8.9,28.2,2.5,1.3,25.8,"Jr","9-Jun","Tennessee Tech",-0.106297
+"844","Noah Locke","Florida","SEC",72.4,111.8,16.1,55.4,1.7,7.6,4.4,13.1,0.7,1.2,12.2,"Jr","3-Jun","Louisville",-0.0106977
+"845","Darlinstone Dubar","Iowa St.","B12",24.1,68.4,15.1,37.8,5.9,13.6,5.5,31.1,1.3,1.5,31.7,"Fr","6-Jun","Hofstra",-1.22805
+"846","Tamir Bynum","Prairie View A&M","SWAC",12.7,85,17.1,45.8,2.3,8,15.3,23.1,0.8,1.8,38.9,"So","1-Jun","New Orleans",-0.0682265
+"847","Sean Sutherlin","New Hampshire","AE",81.6,82.7,26.3,43.3,5,24.1,17.4,25.2,1.4,1.8,37.8,"Jr","5-Jun","Minnesota",0.695082
+"848","Tobias Rotegaard","UAB","CUSA",1.8,64.2,15.1,30,5.8,0,0,20.4,0,0,0,"Fr","7-Jun","Long Beach St.",-4.00284
+"849","Edoardo Del Cadia","UNLV","MWC",17.1,102.9,19,58.1,14.3,19.1,6.7,31.5,0.8,1.1,54.8,"Jr","7-Jun","Nicholls St.",-1.11225
+"850","Jalen White","Texas A&M Corpus Chris","Slnd",71.2,82.4,24.6,42.7,2.5,16.7,14.1,24,1,1.7,56.5,"So","5-Jun","UNC Greensboro",-1.94346
+"851","Lincoln Ball","George Washington","A10",29.2,65.2,9,25,1.2,12.1,9.6,16.1,0.5,2.3,10.7,"Fr","6-Jun","American",0.211867
+"852","Moses Wood","UNLV","MWC",55.4,103.7,14.5,49.1,6.5,15.9,6.3,18.7,6.1,1.3,24.3,"So","8-Jun","Portland",0.583254
+"853","Gabe Kalscheur","Minnesota","B10",54.8,94.3,17.8,38.8,3.8,6.4,11.3,14.7,0.5,1.4,30.5,"Jr","4-Jun","Iowa St.",-0.146012
+"854","Kuba Karwowski","Utah St.","MWC",0.5,123.2,15.2,50,18.8,0,0,0,39.2,0,0,"Sr","2-Jul","Sam Houston St.",8.39479
+"855","Dylan Robertson","Sam Houston St.","Slnd",10.2,117.7,14.1,71.4,10.9,15.7,5.5,23.6,3.3,1.1,100,"Jr","10-Jun","Bethune Cookman",0.0369535
+"856","Osayi Osifo","Florida","SEC",19.7,94.4,14.9,55.6,14.6,16.1,6.1,30.9,0.5,0.9,63,"Jr","7-Jun","Jacksonville",0.376026
+"857","Dejuan Clayton","Coppin St.","MEAC",66.9,99.3,22.2,41.6,0.7,8.9,28.3,17.2,0,2.1,69.4,"Sr","2-Jun","Hartford",-0.738933
+"858","Aljaz Kunc","Washington St.","P12",41.2,119.6,14.9,51.9,7.6,16.6,5.6,11.1,0.7,1.9,36.4,"Jr","8-Jun","Iowa St.",2.82985
+"859","CJ Felder","Boston College","ACC",65.6,102.4,18.1,53.4,5.4,19.8,6.5,17,7.9,2,30.8,"So","7-Jun","Florida",2.00889
+"860","Sedrick Altman","Pepperdine","WCC",66.6,98.5,15.8,50.3,2.8,10.3,13,16.6,1.4,1.6,25,"So","2-Jun","Rider",0.897334
+"861","E.J. Stephens","Lafayette","Pat",78.4,107.7,24.4,50.6,0.7,15.8,16.1,14.8,0.2,2.7,41,"Sr","3-Jun","Minnesota",-1.32201
+"862","Luke Avdalovic","Northern Arizona","BSky",67.7,114.3,15.9,58.5,0.4,8.1,8.8,12.2,0.2,1.8,20.9,"Jr","5-Jun","Pacific",-1.75021
+"863","John Kelly","Fairfield","MAAC",1.2,106.3,7,50,0,9,0,0,0,4.7,0,"So","7-Jun","Massachusetts",0.692244
+"864","Richard Amaefule","East Tennessee St.","SC",13.7,82.3,13.4,40,11.1,23.9,4.2,31.5,3.2,1.4,73.3,"Fr","9-Jun","Dayton",1.15172
+"865","Prince Oduro","South Florida","Amer",17.4,88.4,14.3,43.8,8,17.8,0,16.7,3.4,1.2,34.4,"Jr","8-Jun","Detroit",-0.435693
+"866","Cameron Tyson","Houston","Amer",13,133,19.9,56.3,3.4,7,7.8,3.8,0,0.4,5.6,"So","2-Jun","Seattle",-1.07761
+"867","Bryan Knapp","Cornell","Ivy",66.9,101.6,15,49.4,2,8.8,9.9,12.6,0.7,1.5,14.1,"Jr","1-Jun","George Washington",-2.02843
+"868","Marco Morency","Louisiana Monroe","SB",55.5,92.6,20.2,47.7,3.6,13.6,16.1,17.2,0.4,2.1,21.5,"Jr","3-Jun","Alcorn St.",-0.758856
+"869","Keith McGee","New Mexico","MWC",11.4,113.3,16.7,61.3,3.4,10.6,5.2,15.1,1.3,1.3,0,"Sr","3-Jun","Morgan St.",-0.641528
+"870","Markquis Nowell","Little Rock","SB",42.7,95.2,31.7,41.8,4.4,11.1,39.6,25.4,0,4.1,35.9,"Jr","7-May","Kansas St.",-0.238846
+"871","Stanley Umude","South Dakota","Sum",81.7,105.3,33.6,50.9,1.9,22,21,13.5,1.3,0.8,35.2,"Sr","6-Jun","Arkansas",-1.44519
+"872","D'Avian Houston","College of Charleston","CAA",11.5,90.4,17.4,42.3,1.5,15.8,18.2,26.9,0,1.6,69.2,"Fr","1-Jun","Longwood",-1.19743
+"873","Luke Fizulich","Marquette","BE",0.1,0,20,0,0,0,0,100,0,58.5,0,"Fr","2-Jun","Albany",43.7166
+"874","Alonzo Verge Jr.","Arizona St.","P12",67.8,95.8,27.9,43.8,2.2,13.1,26.1,16.1,0.6,2.3,31.3,"Sr","2-Jun","Nebraska",0.288407
+"875","Tristan Clark","Baylor","B12",23.7,86.5,19.9,47.5,5.5,15.7,7.7,27.5,4,0.8,21.3,"Jr","10-Jun","SMU",2.55948
+"876","Michael Weathers","Texas Southern","SWAC",73.1,104.7,26.8,51.6,2.3,15.1,23,21.3,3.6,3.7,44.2,"Sr","2-Jun","SMU",2.60672
+"877","Samba Kane","San Francisco","WCC",22.2,104.5,14.7,62.2,8.9,19.6,0.9,23,6.5,0.3,22.2,"Jr","Jul-00","Milwaukee",0.843654
+"878","Teddy Allen","Nebraska","B10",55.5,98.3,29.8,52,4.8,13.5,16.3,16.8,0.2,2.5,29.2,"Jr","6-Jun","New Mexico St.",0.912092
+"879","Maceo Jack","George Washington","A10",21.9,133.1,11.9,70,4.1,6.6,2.7,12.9,1.4,2.3,20,"Sr","5-Jun","Buffalo",-0.71022
+"880","Caleb Grill","UNLV","MWC",84.7,103,15.4,51.9,1,10.4,11.7,17.5,0.5,2.6,14.1,"So","3-Jun","Iowa St.",0.452376
+"881","Jermaine Hamlin","Illinois","B10",1.9,98.5,15.6,66.7,0,13.4,0,15,4.1,0,266.7,"So","10-Jun","Eastern Illinois",3.32787
+"882","Caleb Christopher","Arizona St.","P12",3.6,59.2,30.4,23.3,3,9.8,19.6,20.2,0,3.1,40,"So","1-Jun","Tennessee Tech",-3.39597
+"883","Ezekiel Richards","Santa Clara","WCC",5.5,85.9,19.1,33.3,10.7,10.3,0,27.9,2.4,0,166.7,"So","10-Jun","Northern Arizona",-0.291399
+"884","Isaac Kante","Hofstra","CAA",79,108.7,20.7,56.2,9.4,26.7,4.2,18.8,1.3,0.9,49.3,"Jr","7-Jun","LIU Brooklyn",-1.68943
+"885","Marque Maultsby","New Hampshire","AE",61.9,77,18.3,35.4,3.3,7.8,10.2,14.4,0.5,1.3,13.1,"Jr","3-Jun","North Carolina Central",-1.7256
+"886","Omar Payne","Florida","SEC",37.6,128.1,10.8,75,9.6,13.7,4.3,19.5,8,1.5,40.4,"So","10-Jun","Illinois",3.63222
+"887","Braxton Beverly","North Carolina St.","ACC",57.9,114.4,14.8,56.2,0.8,4.8,17.5,17.7,0.2,2.4,30.6,"Sr","Jun-00","Eastern Kentucky",0.732868
+"888","Jalen Pickett","Siena","MAAC",74.3,104.5,22.5,49.1,3.7,16.2,27.8,18.1,3.2,1.4,20.1,"Jr","4-Jun","Penn St.",0.689208
+"889","Sin'Cere McMahon","Western Carolina","SC",30.9,89.4,17.4,44.8,1.5,9.3,13.1,22.1,0,1.4,29.9,"Fr","1-Jun","Winthrop",-1.88302
